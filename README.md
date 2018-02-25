@@ -10,13 +10,19 @@ _Tools (Copy & Paste) to write markdown Github/Gitlab docs_
 PASTE_JAVA_CODE_HERE
 ```
 
+### XML
+
 ```xml
 PASTE_XML_DATA_HERE
 ```
 
+### Properties
+
 ```properties
 PASTE_PROPERTIES_DATA_HERE
 ```
+
+### Yaml
 
 ```yaml
 PASTE_YAML_DATA_HERE
