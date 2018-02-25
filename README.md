@@ -43,7 +43,7 @@ PASTE_YAML_DATA_HERE
 ## Links & Images
 
 * Link without label: `<direct link>`
-* Link with label: `(title)[link]`
+* Link with label: `[title](link)`
 * Image: `![title](link)` or `![alt text](link title)`
 
 ## Tasks
