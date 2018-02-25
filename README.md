@@ -1,6 +1,6 @@
 # Markdown tools & reminders
 
-_Tools (Copy & Paste) to write markdwon Github/Gitlab docs_
+_Tools (Copy & Paste) to write markdown Github/Gitlab docs_
 
 ## Code & Data
 
