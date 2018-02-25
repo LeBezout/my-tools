@@ -1,10 +1,14 @@
 # Markdown tools & reminders
 
-_Tools (Copy & Paste) to write markdown Github/Gitlab docs_
+_Tools (Copy & Paste) when you write markdown Github/Gitlab docs_
 
-**[RAW VERSION for Copy & Paste](https://github.com/LeBezout/markdown-tools/raw/master/README.md)**
+**Access the [RAW VERSION](https://github.com/LeBezout/markdown-tools/raw/master/README.md) for Copy & Paste**
 
 ## Code & Data
+
+### Inline
+
+An `inline` portion of code.
 
 ### Java
 
@@ -32,11 +36,11 @@ PASTE_YAML_DATA_HERE
 
 ## Common Emojis
 
-*  😱 -> `😱`
 * :information_source: -> `:information_source:`
 * :warning: -> `:warning:`
 * :bulb: -> `:bulb:`
 * :no_entry_sign: -> `:no_entry_sign:`
+*  😱 -> `😱` -> `:scream:`
 
 ## Tables
 
@@ -45,3 +49,20 @@ PASTE_YAML_DATA_HERE
 |--------|--------|
 | item1 | item2 |
 ```
+
+## Links & Images
+
+* Link without label: `<direct link>`
+* Link with label: `(title)[link]`
+* Image: `![title](link)`
+
+## Tasks
+
+* [ ] checked: `* [ ]`
+* [x] unchecked: `* [x]`
+
+## Docs
+
+* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+* [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
