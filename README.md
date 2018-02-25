@@ -2,6 +2,8 @@
 
 _Tools (Copy & Paste) to write markdown Github/Gitlab docs_
 
+**[RAW VERSION for Copy & Paste](https://github.com/LeBezout/markdown-tools/raw/master/README.md)**
+
 ## Code & Data
 
 ### Java
