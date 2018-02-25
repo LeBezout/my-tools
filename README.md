@@ -6,29 +6,19 @@ _Tools (Copy & Paste) when you write markdown Github/Gitlab docs_
 
 ## Code & Data
 
-### Inline
-
 An `inline` portion of code.
-
-### Java
 
 ```java
 PASTE_JAVA_CODE_HERE
 ```
 
-### XML
-
 ```xml
 PASTE_XML_DATA_HERE
 ```
 
-### Properties
-
 ```properties
 PASTE_PROPERTIES_DATA_HERE
 ```
-
-### Yaml
 
 ```yaml
 PASTE_YAML_DATA_HERE
@@ -40,7 +30,7 @@ PASTE_YAML_DATA_HERE
 * :warning: -> `:warning:`
 * :bulb: -> `:bulb:`
 * :no_entry_sign: -> `:no_entry_sign:`
-*  😱 -> `😱` -> `:scream:`
+* :scream: -> `😱` -> `:scream:`
 
 ## Tables
 
@@ -54,12 +44,12 @@ PASTE_YAML_DATA_HERE
 
 * Link without label: `<direct link>`
 * Link with label: `(title)[link]`
-* Image: `![title](link)`
+* Image: `![title](link)` or `![alt text](link title)`
 
 ## Tasks
 
-* [ ] checked: `* [ ]`
-* [x] unchecked: `* [x]`
+* [ ] unchecked: `* [ ]`
+* [x] checked: `* [x]`
 
 ## Docs
 
