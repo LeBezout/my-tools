@@ -2,8 +2,6 @@
 
 _Tools (Copy & Paste) when you write markdown Github/Gitlab docs_
 
-**Access the [RAW VERSION](https://github.com/LeBezout/markdown-tools/raw/master/README.md) for Copy & Paste**
-
 ## Code & Data
 
 An `inline` portion of code.
@@ -23,6 +21,8 @@ PASTE_PROPERTIES_DATA_HERE
 ```yaml
 PASTE_YAML_DATA_HERE
 ```
+
+:bulb: **Access the [RAW VERSION](https://github.com/LeBezout/markdown-tools/raw/master/README.md) for Copy & Paste**
 
 ## Common Emojis
 
