@@ -51,6 +51,12 @@ PASTE_YAML_DATA_HERE
 * [ ] unchecked: `* [ ]`
 * [x] checked: `* [x]`
 
+## Specials Characters
+
+* `└─`
+* `├─`
+* `─`
+
 ## Docs
 
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
