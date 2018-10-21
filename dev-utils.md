@@ -9,12 +9,12 @@
 * [Shell Check](https://www.shellcheck.net/)
 * [Cheat](https://cheat.sh/)
 
-## Web et interfaces
+## Web et interfaces
 
 * [Colors](https://www.color-hex.com/color/fe7d37)
 * [FontAwesome to PNG](http://fa2png.io/r/font-awesome/)
 
-## Convertisseurs
+## Convertisseurs
 
 * [Mégabit, mesures informatiques](https://www.convertworld.com/fr/mesures-informatiques/megabit.html)
 * [Conversion en PDF](https://www.conv2pdf.com/)
