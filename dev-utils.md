@@ -21,8 +21,8 @@
 
 ## Shell
 
-* [Shell Check](https://www.shellcheck.net/)
-* [Cheat](https://cheat.sh/)
+* :white_check_mark: [Shell Check](https://www.shellcheck.net/)
+* :information_source: [Cheat](https://cheat.sh/)
 
 ## Web et interfaces
 
@@ -31,7 +31,7 @@
 
 ## Convertisseurs
 
-* [Mégabit, mesures informatiques](https://www.convertworld.com/fr/mesures-informatiques/megabit.html)
+* :computer: [Mégabit, mesures informatiques](https://www.convertworld.com/fr/mesures-informatiques/megabit.html)
 * :pencil2: [Conversion en PDF](https://www.conv2pdf.com/)
 * :pencil2: [Base64 Image Encoder](https://www.base64-image.de/)
 * :pencil2: [Build Your Ajax Loading Icons](https://loading.io/)
