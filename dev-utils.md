@@ -53,3 +53,4 @@
 * :wrench: [Spring Initializr](https://start.spring.io/)
 * :wrench: [.gitignore Generator](https://www.gitignore.io/)
 * :wrench: [.gitattributes Generator](https://gitattributes.io/)
+* :wrench: [Générateur de Mot De Passe](https://www.motdepasse.xyz/)
