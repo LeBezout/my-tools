@@ -18,6 +18,7 @@
 * :clipboard: [Emoji cheat sheet for GitHub](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
 * :clipboard: [Unicode Full Emoji List](http://unicode.org/emoji/charts/full-emoji-list.html) :warning:
 * :clipboard: [Bootstrap Glyphicon Components](https://www.w3schools.com/bootstrap/bootstrap_ref_comp_glyphs.asp)
+* :clipboard: [An emoji guide for your commit messages](https://gitmoji.carloscuesta.me/)
 
 ## Shell
 
