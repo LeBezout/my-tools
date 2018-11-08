@@ -43,6 +43,7 @@
 * :pencil2: [AsciiDoc Live](https://asciidoclive.com/edit/scratch/1)
 * :information_source: [AsciiDoc Special Characters and Symbols](https://docs.antora.org/antora/1.0/asciidoc/special-characters-and-symbols/)
 * :bulb: [Markdown DocToc](https://github.com/thlorenz/doctoc)
+* :wrench: [Mermaid Live Editor](https://mermaidjs.github.io/mermaid-live-editor/) (Online FlowChart & Diagrams Editor)
 
 ## Maven
 
@@ -54,3 +55,4 @@
 * :wrench: [.gitignore Generator](https://www.gitignore.io/)
 * :wrench: [.gitattributes Generator](https://gitattributes.io/)
 * :wrench: [Générateur de Mot De Passe](https://www.motdepasse.xyz/)
+
