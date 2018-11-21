@@ -38,6 +38,7 @@
 * :pencil2: [Build Your Ajax Loading Icons](https://loading.io/)
 * :pencil2: [FontAwesome to PNG](http://fa2png.io/r/font-awesome/)
 * :pencil2: [Editeur / convertisseur de favicon](http://www.xiconeditor.com/)
+* :pencil2: [Image to Data URI converter](https://ezgif.com/image-to-datauri) - [data: URI Generator](https://dopiaza.org/tools/datauri/index.php)
 
 ## Documentation
 
