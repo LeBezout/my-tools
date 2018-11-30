@@ -31,6 +31,14 @@ PASTE_YAML_DATA_HERE
 * :bulb: -> `:bulb:`
 * :no_entry_sign: -> `:no_entry_sign:`
 * :scream: -> `😱` -> `:scream:`
+* :star: -> `:star:`
+* :star2: -> `:star2:`
+* :beginner: -> `:beginner:`
+* :pushpin: -> `:pushpin:`
+* :arrow_backward: -> `:arrow_backward:`
+* :point_left: -> `:point_left:`
+* :thinking: -> `:thinking:`
+* :blue_book: -> `:blue_book:`
 
 ## Tables
 
