@@ -370,8 +370,8 @@ fi
 ```
 
 ```shell
-# double [[ ]] obligatoire ici
-if [[ $variable == "valeur*" ]]; then
+# double [[ ]] obligatoire ici (et le * en dehors des guillemets!)
+if [[ $variable == "valeur"* ]]; then
   echo "Variable commence par valeur"
 fi
 ```
