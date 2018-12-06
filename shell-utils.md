@@ -483,10 +483,18 @@ else
 fi
 ```
 
+:warning: ne pas faire dans le cas du téléchargement d'un fichier (utiliser `--fail`, voir ci-après)
+
 Télécharger un fichier :
 
 ```shell
-curl -L ${FLE_URL} -o ${OUTPUT_DIR}/appli.war
+curl -L ${FLE_URL} -o ${OUTPUT_DIR}/file
+
+# --fail pour verifier que ca se passe bien
+if ! curl --fail --location "${FLE_URL}" --output "${OUTPUT_DIR}/file"
+then
+  exit 1
+fi
 ```
 
 Poster des données :
