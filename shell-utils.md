@@ -675,7 +675,20 @@ sed -i "/^$/d" ${file}
 
 :link: <http://www.theunixschool.com/2014/08/sed-examples-remove-delete-chars-from-line-file.html>
 
-# Replace tokens
+#### deal with paths
+
+> The best way to deal with paths in sed is to use a character other than / as the regexp delimeter --any will do, i.e.
+
+```shell
+sed s,a,b,
+
+# is just the same as
+sed s/a/b/
+```
+
+> Then you don't have to escape the slashes in the search/replace patterns.
+
+#### Replace tokens examples
 
 ```shell
 sed  -e "s#@@DLVR_COMPOSANT@@#${Composant}#g" \
