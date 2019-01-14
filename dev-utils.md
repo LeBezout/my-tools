@@ -16,7 +16,7 @@
 * :information_source: [W3C Character Entity Reference Chart](https://dev.w3.org/html5/html-author/charref)
 * :clipboard: [EmojiCopy](https://www.emojicopy.com/)
 * :clipboard: [Emoji cheat sheet for GitHub](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
-* :clipboard: [Unicode Full Emoji List](http://unicode.org/emoji/charts/full-emoji-list.html) :warning:
+* :clipboard: [Unicode Full Emoji List](http://unicode.org/emoji/charts/full-emoji-list.html) :warning: _long à charger_
 * :clipboard: [Bootstrap Glyphicon Components](https://www.w3schools.com/bootstrap/bootstrap_ref_comp_glyphs.asp)
 * :clipboard: [An emoji guide for your commit messages](https://gitmoji.carloscuesta.me/)
 
@@ -48,7 +48,7 @@
 * :bulb: [Markdown DocToc](https://github.com/thlorenz/doctoc)
 * :pencil2: [Mermaid Live Editor](https://mermaidjs.github.io/mermaid-live-editor/) (Online FlowChart & Diagrams Editor)
 * :pencil2: [Draw.io / Diagrams](https://www.draw.io/)
-* :wrench: [S>G : ScreenToGif](https://www.screentogif.com/?l=fr_fr) :warning: _not in line_
+* :wrench: [S>G : ScreenToGif](https://www.screentogif.com/?l=fr_fr) :warning: _not inline_
 
 ## Maven
 
