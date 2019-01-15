@@ -397,6 +397,11 @@ do
   echo "Fichier trouvé : $fichier"
 done
 
+for fichier in /dir/*.txt
+do
+  echo "Fichier trouvé : $fichier"
+done
+
 for fichier in $(find /home/vagrant/.mozilla/firefox/* -name "prefs.js")
 do
   echo "Fichier trouvé : $fichier"
@@ -416,24 +421,20 @@ done
 ## case
 
 ```shell
-case $INPUT_CAISSE in
-  GAN)  INPUT_CAISSE="GASS" ;;
+case $INPUT in
+  GAN)  INPUT="GASS" ;;
   GASS) ;;
   GRA)  ;;
-  GRAA) INPUT_CAISSE="GRA" ;;
+  GRAA) INPUT="GRA" ;;
   GGE)  ;;
-  GNE)  ;;
-  GSU)  ;;
-  GCA)  ;;
-  GCM)  ;;
   GOC)  ;;
   GOI)  ;;
   LBR)  ;;
-  GLBR) INPUT_CAISSE="LBR" ;;
+  GLBR) INPUT="LBR" ;;
   PVL)  ;;
-  GPVL) INPUT_CAISSE="PVL" ;;
+  GPVL) INPUT_="PVL" ;;
   ALL) echo "Valeur ALL non prise en charge actuellement"; exit 2;;
-  *) echo "Code caisse invalide"; exit 2;
+  *) echo "Code invalide"; exit 2;
 esac
 ```
 
@@ -597,6 +598,10 @@ search() {
 ou `--bytes=<n>` avec `<n>` le nombre d'octets
 
 :information_source: **head** : with the leading '-', print all but the last `<n>` bytes of each file
+
+### find
+
+TODO
 
 ### wc
 
