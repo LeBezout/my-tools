@@ -54,6 +54,10 @@
 
 * :information_source: [List of predefined Maven properties](https://github.com/cko/predefined_maven_properties/blob/master/README.md)
 
+## Java
+
+* :information_source: [Java API Evolution](https://github.com/marchof/java-almanac/tree/master/doc)
+
 ## Générateurs
 
 * :wrench: [Spring Initializr](https://start.spring.io/)
