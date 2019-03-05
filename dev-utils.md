@@ -55,7 +55,6 @@
 * :pencil2: [Mermaid Live Editor](https://mermaidjs.github.io/mermaid-live-editor/) (Online FlowChart & Diagrams Editor)
 * :pencil2: [Draw.io / Diagrams](https://www.draw.io/)
 * :wrench: [S>G : ScreenToGif](https://www.screentogif.com/?l=fr_fr) :warning: _not inline_
-* :pencil2: [Word Cloud Generator](https://www.jasondavies.com/wordcloud/)
 
 ## Maven
 
@@ -71,4 +70,5 @@
 * :wrench: [.gitignore Generator](https://www.gitignore.io/)
 * :wrench: [.gitattributes Generator](https://gitattributes.io/)
 * :wrench: [Générateur de Mot De Passe](https://www.motdepasse.xyz/)
+* :wrench: [Word Cloud Generator](https://www.jasondavies.com/wordcloud/)
 
