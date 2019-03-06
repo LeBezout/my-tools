@@ -56,6 +56,7 @@
 * :pencil2: [Mermaid Live Editor](https://mermaidjs.github.io/mermaid-live-editor/) (Online FlowChart & Diagrams Editor)
 * :pencil2: [Draw.io / Diagrams](https://www.draw.io/)
 * :wrench: [S>G : ScreenToGif](https://www.screentogif.com/?l=fr_fr) :warning: _not inline_
+* :pencil2: [PantUML - Diagrammes UML](http://plantuml.com/fr/)
 
 ## Maven
 
@@ -73,3 +74,6 @@
 * :wrench: [Générateur de Mot De Passe](https://www.motdepasse.xyz/)
 * :wrench: [Word Cloud Generator](https://www.jasondavies.com/wordcloud/)
 
+## Divers
+
+* :information_source: [Cron Expression Descriptor](https://cronexpressiondescriptor.azurewebsites.net/)
