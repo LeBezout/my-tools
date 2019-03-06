@@ -7,6 +7,7 @@
 * :wrench: [URL Decoder](https://www.urldecoder.org/)
 * :wrench: [URL Encoder](https://www.urlencoder.org/)
 * :wrench: [URL – Online Encoders and Decoders](http://url-encode.online-domain-tools.com/)
+* :wrench: [HTTPie - command line HTTP client](https://httpie.org/run)
 
 ## Caractères et icônes
 
