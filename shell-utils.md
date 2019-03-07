@@ -742,6 +742,33 @@ du -h -s /sonatype-work/storage/g2s-binary/
 
 * <https://www.growingwiththeweb.com/2015/05/colours-in-gnome-terminal.html>
 
+## Trucs et astuces
+
+### Tableaux
+
+```sh
+#!/bin/sh
+
+# Index de parcours des tableaux de noms et d'ID
+GIT_REPO_INDEX="0 1 2"
+# Noms des depots
+GIT_REPO_NAMES[0]=REPO1
+GIT_REPO_NAMES[1]=REPO2
+GIT_REPO_NAMES[2]=REPO3
+# Identifiants des depots pour l'API
+GIT_REPO_IDS[0]=396
+GIT_REPO_IDS[1]=433
+GIT_REPO_IDS[2]=397
+
+echo "GIT_REPO_INDEX=${GIT_REPO_INDEX[*]}"
+echo "GIT_REPO_NAMES=${GIT_REPO_NAMES[*]}"
+echo "GIT_REPO_IDS=${GIT_REPO_IDS[*]}"
+
+for INDEX in ${GIT_REPO_INDEX}; do
+  echo "${INDEX} | NAME ${GIT_REPO_NAMES[${INDEX}]} |  ID ${GIT_REPO_IDS[${INDEX}]}"
+done
+```
+
 ## Liens utiles
 
 * <https://linuxacademy.com/blog/linux/conditions-in-bash-scripting-if-statements/>
