@@ -4,6 +4,8 @@
 
 * :uk: `AES` : Advanced Encryption Standard
 * :uk: `AFP` : Apple Filing Protocol
+* :uk: `AJAX` : Asynchronous JAvaScript and XML
+* :fr: `ANSSI` : Agence Nationale de la Sécurité des Systèmes d'Information
 * :uk: `API` : Application Provider Interface
 * :uk: `APM` : Application Performance Management
 * :uk: `AWT` : Abstract Windows Toolkit
@@ -12,11 +14,13 @@
 
 ## C
 
+* :uk: `CDN` : Content Delivery Network
 * :uk: `CI/CD` : Continuous Integration / Continuous Deployment
 * :uk: `CIFS` : Common Internet File System
 * :uk: `CLI` : Command Line Interface
 * :fr: `CNIL` : Commission Nationale sur l'Informatique et les Libertés
 * :uk: `CSP` : Cryptographic Service Provider
+* :uk: `CSS` : Cascading Style Sheets
 
 ## D
 
@@ -26,6 +30,7 @@
 * :uk: `DI` : Dependency Injection
 * :uk: `DIP` : Dependency Inversion Principle
 * :uk: `DNS` : Domain Name System
+* :uk: `DOM` : Document Object Model
 * :fr: `DSI` : Direction des Systèmes d'Information
 * :uk: `DSL` : Domain Specific Language
 * :uk: `DTO` : Data Transfert Object
@@ -33,6 +38,7 @@
 ## E
 
 * :uk: `EAP` : Enterprise Application Platform
+* :uk: `ECMA` : European Computer Manufacturers Association
 * :uk: `EJB` : Entreprise Java Bean
 * :uk: `ERP` : Enterprise Ressource Planning
 * :uk: `ETL` : Extract Transform Load
@@ -44,12 +50,16 @@
 
 ## G
 
+* :uk: `GUI` : Graphical User Interface
+
 ## H
 
 * :uk: `HTTP` : Hyper Text Transfert Protocol
 
 ## I
 
+* :uk: `IDE` : Integrated Development Environment
+* :uk: `IETF` : Internet Engineering Task Force
 * :uk: `IT` : Information Technology
 * :uk: `ISP` : Interface Segregation Principle
 
@@ -85,6 +95,7 @@
   * `JMX` : Java Management Extensions
   * `JMS` : Java Message Service
   * `JMF` : Java Media Framework
+  * `JSR` : Java Specification Request
 
 ## K
 
@@ -119,28 +130,36 @@
 ## R
 
 * :uk: `REST` : REpresentational State Transfer
+* :uk: `RFC` : Requests For Comments 
+* :fr: `RGPD` : Règlement Général sur la Protection des Données
 * :fr: `RSSI` : Responsable de la Sécurité des Systèmes d'Information
 
 ## S
 
 * :uk: `SAN` : Storage Area Network
 * :uk: `SCP` : Secure Copy Protocol
+* :uk: `SEO` : Search Engine Optimization
 * :fr: `SGBD/SGBDR` : Système de Gestion de Base de Données Relationnelle
 * :uk: `SLF4J` : Simple Logging Factory For Java
 * :uk: `SNI` : Server Name Indication
 * :uk: `SMB` : Server Message Block
+* :uk: `SPI` : Single-Page Application
 * :uk: `SPI` : Service Provider Interface
 * :uk: `SQL` : Structured Query Language
 * :uk: `SRP` : Single Responsibility Principle
+* :uk: `SSL` : Secure Sockets Layer
 * :uk: `SWT` : Standard Widget Toolkit
 
 ## T
 
 * :fr: `TIC` : Technologies de l'Information et de la Communication
+* :uk: `TLS` : Transport Layer Security
+* :uk: `TTL` : Time To Live
 
 ## U
 
 * :uk: `UFS` : Unix File System
+* :uk: `UI` : User Interface
 * :uk: `URI` : Uniform Resource Identifier
 * :uk: `URN` : Uniform Ressource Name
 * :uk: `URL` : Uniform Resource Locator
@@ -154,6 +173,11 @@
 ## W
 
 ## X
+
+* :uk: `XML` Extensible Markup Language
+* :uk: `XSL` eXtensible Stylesheet Language
+* :uk: `XSLT` eXtensible Stylesheet Language Transformation
+* :uk: `XSS` Cross (X) Site Scripting
 
 ## Y
 
