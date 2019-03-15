@@ -143,7 +143,7 @@
 * :uk: `UFS` : Unix File System
 * :uk: `URI` : Uniform Resource Identifier
 * :uk: `URN` : Uniform Ressource Name
-*:uk:  `URL` : Uniform Resource Locator
+* :uk: `URL` : Uniform Resource Locator
 
 ## V
 
