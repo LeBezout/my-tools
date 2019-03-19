@@ -148,6 +148,7 @@
 * :gb: `SQL` : Structured Query Language
 * :gb: `SRP` : Single Responsibility Principle
 * :gb: `SSL` : Secure Sockets Layer
+* :gb: `STXX` : Struts for Transforming XML with XSL
 * :gb: `SWT` : Standard Widget Toolkit
 
 ## T
