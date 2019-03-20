@@ -65,6 +65,7 @@
 
 ## J
 
+* :gb: `JIT` : Just In Time
 * :gb: `JSON` : JavaScript Object Notation
 * :gb: Java Eco-système :
   * `JDK` : Java Development Kit
@@ -96,12 +97,14 @@
   * `JMS` : Java Message Service
   * `JMF` : Java Media Framework
   * `JSR` : Java Specification Request
+  * `JPDA` : Java Platform Debugger Architecture
 
 ## K
 
 ## L
 
 * :gb: `LSP` : Liskov Substitution Principle
+* :gb: `LTS` : Long Term Support
 
 ## M
 
