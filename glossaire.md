@@ -24,6 +24,8 @@
 * :gb: `CIFS` : Common Internet File System
 * :gb: `CLI` : Command Line Interface
 * :fr: `CNIL` : Commission Nationale sur l'Informatique et les Libertés
+* :gb: `CQRS` : Command Query Responsability Separation
+* :gb: `CRUD` : Create Read Update Delete
 * :gb: `CSP` : Cryptographic Service Provider
 * :gb: `CSRF` : Cross-Site Request Forgery (voir XSRF)
 * :gb: `CSS` : Cascading Style Sheets
