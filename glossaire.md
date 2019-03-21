@@ -210,14 +210,14 @@
 
 ## X
 
-* :gb: `XML` eXtensible Markup Language
-* :gb: `XSL` eXtensible Stylesheet Language
-* :gb: `XSLT` eXtensible Stylesheet Language Transformation
-* :gb: `XSS` Cross (X) Site Scripting
+* :gb: `XML` : eXtensible Markup Language
+* :gb: `XSL` : eXtensible Stylesheet Language
+* :gb: `XSLT` : eXtensible Stylesheet Language Transformation
+* :gb: `XSS` : Cross (X) Site Scripting
 * :gb: `XSRF` : Cross (X) Site Request Forgery (voir CSRF)
 
 ## Y
 
 ## Z
 
-* :gb: `XZDD` Zero Downtime Deployment
+* :gb: `XZDD` : Zero Downtime Deployment
