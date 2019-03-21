@@ -2,8 +2,10 @@
 
 ## A
 
+* :gb: `AD` : Active Directory
 * :gb: `AES` : Advanced Encryption Standard
 * :gb: `AFP` : Apple Filing Protocol
+* :gb: `AI` : Actificial Intelligence
 * :gb: `AJAX` : Asynchronous JAvaScript and XML
 * :fr: `ANSSI` : Agence Nationale de la Sécurité des Systèmes d'Information
 * :gb: `API` : Application Provider Interface
@@ -14,13 +16,18 @@
 
 ## C
 
+* :gb: `CAS` : Client Access Server
+* :gb: `CAS` : Code Access Security
+* :gb: `CAS` : Conditional Access System
 * :gb: `CDN` : Content Delivery Network
 * :gb: `CI/CD` : Continuous Integration / Continuous Deployment
 * :gb: `CIFS` : Common Internet File System
 * :gb: `CLI` : Command Line Interface
 * :fr: `CNIL` : Commission Nationale sur l'Informatique et les Libertés
 * :gb: `CSP` : Cryptographic Service Provider
+* :gb: `CSRF` : Cross-Site Request Forgery (voir XSRF)
 * :gb: `CSS` : Cascading Style Sheets
+* :gb: `CSV` : Comma-Separated Values
 
 ## D
 
@@ -45,6 +52,7 @@
 
 ## F
 
+* :gb: `FaaS` : Function as a Service
 * :gb: `FAT` : File Allocation Table
 * :gb: `FTP` : File Transfer Protocol
 
@@ -58,8 +66,14 @@
 
 ## I
 
+* :fr: `IA` : Intelligence Artificielle
+* :gb: `IaaS` : Infrastructure as a Service
+* :gb: `IAC` : Infrastructure As Code
 * :gb: `IDE` : Integrated Development Environment
 * :gb: `IETF` : Internet Engineering Task Force
+* :fr: `IHM` : Interfaçe Homme Machine
+* :gb: `IMAP` : Internet Message Access Protocol
+* :gb: `IOT` : Internet Of Things
 * :gb: `IT` : Information Technology
 * :gb: `ISP` : Interface Segregation Principle
 
@@ -67,6 +81,7 @@
 
 * :gb: `JIT` : Just In Time
 * :gb: `JSON` : JavaScript Object Notation
+* :gb: `JWT` : JSON Web Token
 * :gb: Java Eco-système :
   * `JDK` : Java Development Kit
   * `JRE` : Java Runtime Environment
@@ -103,30 +118,38 @@
 
 ## L
 
+* :gb: `LDAP` : Lightweight Directory Access Protocol
 * :gb: `LSP` : Liskov Substitution Principle
 * :gb: `LTS` : Long Term Support
 
 ## M
+
+* :gb: `MD5` : Message Digest 5
 
 ## N
 
 * :gb: `NAS` : Network Attached Storage
 * :gb: `NFS` : Network File System
 * :gb: `NTFS` : New Technology File System
+* :gb: `NTP` : Network Time Protocol
 
 ## O
 
 * :gb: `OCP` : Open/Closed Principle
 * :gb: `ORM` : Object-Relational Mapping
+* :gb: `OS` : Operating System
 * :gb: `OWASP` : Open Web Application Security Project
 
 ## P
 
+* :gb: `PaaS` : Platform as a Service
 * :fr: `PCA` : Plan de Continuité de l'Activité
 * :gb: `PBE` : Password-Based Encryption
 * :gb: `PCBC` : Propagating Cipher Block Chaining
 * :fr: `PIC` : Plateforme d'Intégration Continue
+* :gb: `POC` : Proof Of Concept
 * :gb: `POJO` : Plain Old Java Object
+* :gb: `POP/POP3` : Post Office Protocol
 
 ## Q
 
@@ -135,28 +158,37 @@
 * :gb: `REST` : REpresentational State Transfer
 * :gb: `RFC` : Requests For Comments 
 * :fr: `RGPD` : Règlement Général sur la Protection des Données
+* :gb: `RPC` : Remote Procedure Call
 * :fr: `RSSI` : Responsable de la Sécurité des Systèmes d'Information
 
 ## S
 
+* :gb: `SaaS` : Software as a Service
 * :gb: `SAN` : Storage Area Network
 * :gb: `SCP` : Secure Copy Protocol
 * :gb: `SEO` : Search Engine Optimization
 * :fr: `SGBD/SGBDR` : Système de Gestion de Base de Données Relationnelle
 * :gb: `SLF4J` : Simple Logging Factory For Java
 * :gb: `SNI` : Server Name Indication
+* :gb: `SNMP` : Simple Network Management Protocol
 * :gb: `SMB` : Server Message Block
+* :gb: `SMTP` : Simple Mail Transfer Protocol
+* :gb: `SMS` : Short Message Service
+* :gb: `SOA` : Service Oriented Architecture
+* :gb: `SOAP` : Simple Object Access Protocol
 * :gb: `SPI` : Single-Page Application
 * :gb: `SPI` : Service Provider Interface
 * :gb: `SQL` : Structured Query Language
 * :gb: `SRP` : Single Responsibility Principle
 * :gb: `SSL` : Secure Sockets Layer
+* :gb: `SSO` : Single Sign-On
 * :gb: `STXX` : Struts for Transforming XML with XSL
 * :gb: `SWT` : Standard Widget Toolkit
 
 ## T
 
 * :fr: `TIC` : Technologies de l'Information et de la Communication
+* :gb: `TL;DR` : Too Long; Don't Read
 * :gb: `TLS` : Transport Layer Security
 * :gb: `TTL` : Time To Live
 
@@ -178,11 +210,14 @@
 
 ## X
 
-* :gb: `XML` Extensible Markup Language
+* :gb: `XML` eXtensible Markup Language
 * :gb: `XSL` eXtensible Stylesheet Language
 * :gb: `XSLT` eXtensible Stylesheet Language Transformation
 * :gb: `XSS` Cross (X) Site Scripting
+* :gb: `XSRF` : Cross (X) Site Request Forgery (voir CSRF)
 
 ## Y
 
 ## Z
+
+* :gb: `XZDD` Zero Downtime Deployment
