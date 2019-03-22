@@ -15,6 +15,7 @@
 ## B
 
 * :gb: `BDD` : Behavior Driven Development
+* :gb: `BOM` : Bill Of Materials
 
 ## C
 
@@ -129,6 +130,7 @@
 ## L
 
 * :gb: `LDAP` : Lightweight Directory Access Protocol
+* :gb: `LOV` : List Of Value
 * :gb: `LSP` : Liskov Substitution Principle
 * :gb: `LTS` : Long Term Support
 
@@ -160,6 +162,7 @@
 * :fr: `PIC` : Plateforme d'Intégration Continue
 * :gb: `POC` : Proof Of Concept
 * :gb: `POJO` : Plain Old Java Object
+* :gb: `POM` : Project Object Model
 * :gb: `POP/POP3` : Post Office Protocol
 
 ## Q
