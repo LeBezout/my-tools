@@ -14,6 +14,8 @@
 
 ## B
 
+* :gb: `BDD` : Behavior Driven Development
+
 ## C
 
 * :gb: `CAS` : Client Access Server
@@ -34,6 +36,7 @@
 ## D
 
 * :gb: `DAO` : Data Access Object
+* :gb: `DDD` : Domain Driven Design
 * :gb: `DDL` : Data Definition Language ou Data Description Language
 * :gb: `DES` : Data Encryption Standard
 * :gb: `DI` : Dependency Injection
@@ -41,6 +44,7 @@
 * :gb: `DNS` : Domain Name System
 * :gb: `DOM` : Document Object Model
 * :fr: `DSI` : Direction des Systèmes d'Information
+* :gb: `DRY` : Don't Repeat Yourself
 * :gb: `DSL` : Domain Specific Language
 * :gb: `DTO` : Data Transfert Object
 
@@ -74,6 +78,8 @@
 * :gb: `IDE` : Integrated Development Environment
 * :gb: `IETF` : Internet Engineering Task Force
 * :fr: `IHM` : Interfaçe Homme Machine
+* :gb: `IHS` : IBM HTTP Server
+* :gb: `IIS` : Internet Information Service
 * :gb: `IMAP` : Internet Message Access Protocol
 * :gb: `IOT` : Internet Of Things
 * :gb: `IT` : Information Technology
@@ -118,6 +124,8 @@
 
 ## K
 
+* :gb: `KISS` : Keep It Simple, Stupid
+
 ## L
 
 * :gb: `LDAP` : Lightweight Directory Access Protocol
@@ -140,6 +148,7 @@
 * :gb: `OCP` : Open/Closed Principle
 * :gb: `ORM` : Object-Relational Mapping
 * :gb: `OS` : Operating System
+* :gb: `OSS` : Open-Source Software
 * :gb: `OWASP` : Open Web Application Security Project
 
 ## P
@@ -178,6 +187,7 @@
 * :gb: `SMS` : Short Message Service
 * :gb: `SOA` : Service Oriented Architecture
 * :gb: `SOAP` : Simple Object Access Protocol
+* :gb: `SOC` : Separation Of Concerns
 * :gb: `SPI` : Single-Page Application
 * :gb: `SPI` : Service Provider Interface
 * :gb: `SQL` : Structured Query Language
@@ -189,6 +199,7 @@
 
 ## T
 
+* :gb: `TDD` : Tests Driven Development
 * :fr: `TIC` : Technologies de l'Information et de la Communication
 * :gb: `TL;DR` : Too Long; Don't Read
 * :gb: `TLS` : Transport Layer Security
@@ -196,6 +207,7 @@
 
 ## U
 
+* :gb: `UDDI` : Universal Description Discovery and Integration
 * :gb: `UFS` : Unix File System
 * :gb: `UI` : User Interface
 * :gb: `URI` : Uniform Resource Identifier
@@ -210,6 +222,12 @@
 
 ## W
 
+* :gb: `W3C` : World Wide Web Consortium
+* :gb: `WAS` : WebSphere Application Server
+* :gb: `WADL` : Web Application Description Language
+* :gb: `WSDL` : Web Services Description Language
+* :gb: `WS-I` : Web Services Interoperability
+
 ## X
 
 * :gb: `XML` : eXtensible Markup Language
@@ -219,6 +237,8 @@
 * :gb: `XSRF` : Cross (X) Site Request Forgery (voir CSRF)
 
 ## Y
+
+* :gb: `YAGNI` : You Ain't Gonna Need It
 
 ## Z
 
