@@ -26,6 +26,7 @@
 * :gb: `CI/CD` : Continuous Integration / Continuous Deployment
 * :gb: `CIFS` : Common Internet File System
 * :gb: `CLI` : Command Line Interface
+* :gb: `CLI` : Command-Line Interpreter
 * :fr: `CNIL` : Commission Nationale sur l'Informatique et les Libertés
 * :gb: `CQRS` : Command Query Responsability Separation
 * :gb: `CRUD` : Create Read Update Delete
