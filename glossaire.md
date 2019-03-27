@@ -55,6 +55,7 @@
 * :gb: `EAP` : Enterprise Application Platform
 * :gb: `ECMA` : European Computer Manufacturers Association
 * :gb: `EJB` : Entreprise Java Bean
+* :gb: `EPEL` : Extra Packages for Enterprise Linux
 * :gb: `ERP` : Enterprise Ressource Planning
 * :gb: `ETL` : Extract Transform Load
 
@@ -171,7 +172,8 @@
 ## R
 
 * :gb: `REST` : REpresentational State Transfer
-* :gb: `RFC` : Requests For Comments 
+* :gb: `RFC` : Requests For Comments
+* :gb: `RHEL` : Red Hat Enterprise Linux
 * :fr: `RGPD` : Règlement Général sur la Protection des Données
 * :gb: `RPC` : Remote Procedure Call
 * :fr: `RSSI` : Responsable de la Sécurité des Systèmes d'Information
