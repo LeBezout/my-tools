@@ -67,6 +67,7 @@
 
 ## G
 
+* :gb: `GMT` : Greenwich Mean Time
 * :gb: `GUI` : Graphical User Interface
 
 ## H
@@ -79,6 +80,7 @@
 * :gb: `IaaS` : Infrastructure as a Service
 * :gb: `IAC` : Infrastructure As Code
 * :gb: `IDE` : Integrated Development Environment
+* :gb: `IEEE` : Institute of Electrical and Electronics Engineers
 * :gb: `IETF` : Internet Engineering Task Force
 * :fr: `IHM` : Interfaçe Homme Machine
 * :gb: `IHS` : IBM HTTP Server
@@ -166,6 +168,7 @@
 * :gb: `POJO` : Plain Old Java Object
 * :gb: `POM` : Project Object Model
 * :gb: `POP/POP3` : Post Office Protocol
+* :gb: `POSIX` : Portable Operating System Interface
 
 ## Q
 
@@ -205,6 +208,8 @@
 
 ## T
 
+* :fr: `TAI` : Temps Atomique International
+* :gb: `TAI` : International Atomic Time
 * :gb: `TDD` : Tests Driven Development
 * :fr: `TIC` : Technologies de l'Information et de la Communication
 * :gb: `TL;DR` : Too Long; Don't Read
@@ -219,6 +224,7 @@
 * :gb: `URI` : Uniform Resource Identifier
 * :gb: `URN` : Uniform Ressource Name
 * :gb: `URL` : Uniform Resource Locator
+* :gb: `UTC` : Coordinated Universal Time
 
 ## V
 
