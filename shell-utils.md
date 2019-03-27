@@ -738,6 +738,12 @@ du -h -s /sonatype-work/storage/g2s-binary/
 # TODO
 ```
 
+## Options et arguments
+
+:link: Syntaxe `getopts` <https://wiki.bash-hackers.org/howto/getopts_tutorial>
+
+:link: Syntaxe _GNU-Style_ TODO
+
 ## Couleurs
 
 * <https://www.growingwiththeweb.com/2015/05/colours-in-gnome-terminal.html>
