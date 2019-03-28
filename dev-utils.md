@@ -23,7 +23,7 @@
 
 ## Shell
 
-* :white_check_mark: [Shell Check](https://www.shellcheck.net/)
+* :white_check_mark: [Shell Check](https://www.shellcheck.net/) | Accès au détail d'une règle :  `https://github.com/koalaman/shellcheck/wiki/SCxxxx`
 * :information_source: [Cheat](https://cheat.sh/)
 
 ## SSL
