@@ -1,0 +1,3 @@
+@ECHO OFF
+echo call http://cht.sh/%1...
+call "C:\Program Files\Git\usr\bin\curl.exe" --proxy %HTTP_PROXY% http://cht.sh/%1
