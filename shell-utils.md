@@ -498,6 +498,12 @@ then
 fi
 ```
 
+ou pour conserver le nom d'origine :
+
+```shell
+curl --location https://storage.googleapis.com/shellcheck/shellcheck-stable.linux.x86_64.tar.xz --remote-name
+```
+
 Poster des données :
 
 ```shell
