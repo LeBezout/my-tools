@@ -34,6 +34,8 @@
 
 :information_source: Use `<<section title>>` to link to a specific section
 
+:information_source: Use `[[some_label]]` to define a section  `<<some_label>>` to link to that section
+
 ## Formatting
 
 * `*bold*`
