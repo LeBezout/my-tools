@@ -18,6 +18,8 @@
 
 * :gb: `BDD` : Behavior Driven Development
 * :gb: `BOM` : Bill Of Materials
+* :gb: `BOM` : Byte Order Mark
+* :gb: `BYOD` : Bring Your Own Device
 
 ## C
 
@@ -238,6 +240,7 @@
 ## W
 
 * :gb: `W3C` : World Wide Web Consortium
+* :gb: `WAF` : Wepp Application Firewall
 * :gb: `WAS` : WebSphere Application Server
 * :gb: `WADL` : Web Application Description Language
 * :gb: `WSDL` : Web Services Description Language
