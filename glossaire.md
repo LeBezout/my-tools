@@ -73,6 +73,7 @@
 ## H
 
 * :gb: `HTTP` : Hyper Text Transfert Protocol
+* :gb: `HATEOAS` : Hypermedia As The Engine Of Application State
 
 ## I
 
