@@ -5,6 +5,8 @@
 * :gb: `AD` : Active Directory
 * :gb: `AES` : Advanced Encryption Standard
 * :gb: `AFP` : Apple Filing Protocol
+* :fr: `AFAQ` : Association française pour l'amélioration et le management de la qualité
+* :fr: `AFNOR` : Association française de normalisation
 * :gb: `AI` : Actificial Intelligence
 * :gb: `AJAX` : Asynchronous JAvaScript and XML
 * :fr: `ANSSI` : Agence Nationale de la Sécurité des Systèmes d'Information
