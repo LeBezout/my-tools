@@ -146,6 +146,7 @@
 ## M
 
 * :gb: `MD5` : Message Digest 5
+* :gb: `MVP` : Minimum Viable Product
 
 ## N
 
