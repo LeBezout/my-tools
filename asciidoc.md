@@ -13,13 +13,14 @@
 
 ### Others
 
-* <http://www.methods.co.nz/asciidoc/userguide.html>
-* <http://gist.asciidoctor.org/>
-* <https://github.com/asciidocfx/AsciidocFX>
-* <https://asciidoclive.com/edit/scratch/1>
-* <http://fa2png.io/r/font-awesome/>
-* <https://powerman.name/doc/asciidoc>
-* <http://www.vogella.com/tutorials/AsciiDoc/article.html>
+* [Awesome Asciidoctor "tips"](http://mrhaki.blogspot.com/2017/10/awesome-asciidoctor-prevent.html)
+* [User Guide](http://www.methods.co.nz/asciidoc/userguide.html)
+* [DocGist](http://gist.asciidoctor.org/)
+* [AsciidocFX](https://github.com/asciidocfx/AsciidocFX)
+* [Asciidoc Live](https://asciidoclive.com/edit/scratch/1)
+* Outil [Font Awesome to PNG](http://fa2png.io/r/font-awesome/)
+* [AsciiDoc cheatsheet](https://powerman.name/doc/asciidoc)
+* [Using AsciiDoc and Asciidoctor to write documentation - Tutorial](http://www.vogella.com/tutorials/AsciiDoc/article.html)
 
 ## Sections
 
