@@ -5,11 +5,11 @@
 ### asciidoctor.org
 
 * <https://asciidoctor.org/>
-* <https://asciidoctor.org/docs/asciidoc-writers-guide/>
-* <https://asciidoctor.org/docs/asciidoc-recommended-practices/>
-* <https://asciidoctor.org/news/2016/04/05/debuter-avec-asciidoctor/>
-* <https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/>
-* <https://asciidoctor.org/docs/user-manual/#comparison-by-example>
+* [Writers Guite](https://asciidoctor.org/docs/asciidoc-writers-guide/)
+* [Recommended Practices](https://asciidoctor.org/docs/asciidoc-recommended-practices/)
+* :fr: [Débuter avec Asciidoctor](https://asciidoctor.org/news/2016/04/05/debuter-avec-asciidoctor/)
+* [Syntax Quick Reference](https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/)
+* [Asciidoc & Markdown Comparison](https://asciidoctor.org/docs/user-manual/#comparison-by-example)
 
 ### Others
 
@@ -18,7 +18,7 @@
 * [DocGist](http://gist.asciidoctor.org/)
 * [AsciidocFX](https://github.com/asciidocfx/AsciidocFX)
 * [Asciidoc Live](https://asciidoclive.com/edit/scratch/1)
-* Outil [Font Awesome to PNG](http://fa2png.io/r/font-awesome/)
+* [Font Awesome to PNG](http://fa2png.io/r/font-awesome/)
 * [AsciiDoc cheatsheet](https://powerman.name/doc/asciidoc)
 * [Using AsciiDoc and Asciidoctor to write documentation - Tutorial](http://www.vogella.com/tutorials/AsciiDoc/article.html)
 
