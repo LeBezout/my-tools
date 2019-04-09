@@ -10,7 +10,7 @@
 * on Windows, the directory structure has a Windows syntax, and each file path must be separated by a semicolon (`;`)
 * when the Classpath is defined in manifest files, where each file path must be separated by a space (` `), regardless of the operating system
 
-### Entêtes
+### Entêtes _shebang_
 
 ```shell
 #!/bin/sh
@@ -105,7 +105,9 @@ LIQUIBASE_COMMAND=${1:=status}
 * `$-` représente ?
 * `$_` représente ?
 
-## Paramètres d'un script (...ou d'une fonction)
+## Paramètres
+
+### Paramètre d'un script (...ou d'une fonction)
 
 * `$#` nombre de paramètres reçus
 * `$0` nom du script
@@ -116,11 +118,11 @@ LIQUIBASE_COMMAND=${1:=status}
 
 :warning: Les variables `$*` et `$@` lorsqu'elles ne sont pas entourées par des guillemets sont équivalentes : _`$@` has each parameter as a separate quoted string, whereas `$*` has all parameters as a single string._
 
-## Paramete Expansion
+### Paramete Expansion
 
 :link: <https://www.gnu.org/software/bash/manual/html_node/Shell-Parameter-Expansion.html>
 
-## Filename Expansion
+### Filename Expansion
 
 * `extension="${filename##*.}"` extension du fichier
 * `filename="${filename%.*}"` nom du fichier sans l'extension
@@ -747,6 +749,54 @@ du -h -s /sonatype-work/storage/g2s-binary/
 ```shell
 # TODO
 ```
+
+## Options du shell
+
+* :link: <https://www.quennec.fr/trucs-astuces/syst%C3%A8mes/gnulinux/programmation-shell-sous-gnulinux/param%C3%A9trer-son-environnement-de-travail/les-options-du-shell>
+* :link: <https://www.gnu.org/software/bash/manual/html_node/The-Set-Builtin.html>
+
+Tableau d'équivalence :
+
+| set -? | set -o ? |
+|--------|----------|
+| a | allexport |
+| b | notify |
+| e | errexit |
+| f | noglob |
+| h | hashall |
+| :no_entry_sign: | history |
+| :no_entry_sign: | ignoreeof |
+| k | keyword |
+| m | monitor |
+| n | noexec |
+| p | privileged |
+| :no_entry_sign: | pipefail |
+| :no_entry_sign: | posix |
+| t | onecmd |
+| u | nounset |
+| v | verbose |
+| x | xtrace |
+| B | braceexpand |
+| C | noclobber |
+| E | errtrace |
+| H | histexpand |
+| P | physical |
+| T | functrace |
+| :no_entry_sign: | emacs |
+| :no_entry_sign: | vi |
+
+Détail sur certaines options :
+
+| Version courte | Version longue | Description |
+| -------------- | -------------- | ----------- |
+| `set -u` | `set -o nounset` | Ne pas autoriser les variables non définies |
+| `set -v` | `set -o verbose` | Affiche la ligne avant de l'exécuter |
+| `set -x` | `set -o xtrace` | Affiche l'exécution des commandes après traitement des caractères spéciaux (ex: $var) |
+| `set -n` | `set -o noexec` | Permet la détection des erreurs de syntaxe via la lecture des commandes mais sans les exécuter |
+| `set -e` | `set -o errexit` | Force l'arrêt du script en cas d'erreur |
+|  :no_entry_sign: | `set -o ignoreeof`| L'arrêt du script n'est plus possible via CTRL+D |
+| `set -f` | `set -o noglob` | Les caractères jokers (`*?[]`) ne sont pas interprétés |
+| `set -C` | `set -o noclobber` | Avertissement quand une redirection va écraser un fichier existant |
 
 ## Options et arguments
 
