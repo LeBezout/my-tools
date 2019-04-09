@@ -61,6 +61,27 @@ PASTE_YAML_DATA_HERE
 
 ## Specials Characters
 
+### Escape characters
+
+``backtick `in backtick`` -> double first & last
+
+> Markdown provides backslash escapes for the following characters:
+
+```text
+\   backslash
+`   backtick
+*   asterisk
+_   underscore
+{}  curly braces
+[]  square brackets
+()  parentheses
+#   hash mark
++   plus sign
+-   minus sign (hyphen)
+.   dot
+!   exclamation mark
+```
+
 ### Borders
 
 * `└─`
