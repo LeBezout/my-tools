@@ -108,7 +108,7 @@ LIQUIBASE_COMMAND=${1:=status}
 
 :warning: Les variables `$*` et `$@` lorsqu'elles ne sont pas entourées par des guillemets sont équivalentes : _`$@` has each parameter as a separate quoted string, whereas `$*` has all parameters as a single string._
 
-### Paramete Expansion
+### Parameter Expansion
 
 :link: <https://www.gnu.org/software/bash/manual/html_node/Shell-Parameter-Expansion.html>
 
