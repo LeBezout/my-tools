@@ -194,6 +194,7 @@
 
 * :gb: `SaaS` : Software as a Service
 * :gb: `SAN` : Storage Area Network
+* :gb: `SCA` : Software Composition Analysis
 * :gb: `SCP` : Secure Copy Protocol
 * :gb: `SEO` : Search Engine Optimization
 * :fr: `SGBD/SGBDR` : Système de Gestion de Base de Données Relationnelle
@@ -264,4 +265,5 @@
 
 ## Z
 
-* :gb: `XZDD` : Zero Downtime Deployment
+* :gb: `ZAP` : Zed Attack Proxy
+* :gb: `ZDD` : Zero Downtime Deployment
