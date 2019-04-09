@@ -460,6 +460,28 @@ esac
 
 :warning: Le double point-virgule dit à bash d'arrêter ici la lecture du `case`. Il saute donc à la ligne qui suit le `esac`.
 
+## Processus
+
+### Commande ulimit
+
+:link: <https://www.admin-linux.fr/controle-des-ressources-systemes-ulimit/> | <https://buzut.developpez.com/tutoriels/ulimit/>
+
+> `usage: ulimit [-SHacdefilmnpqrstuvx] [limit]`
+>
+> * **S** : limite soft : si l'utilisateur souhaite repousser cette limite, il devra définir une nouvelle limite soft avec ulimit
+> * **H** : limite hard : limite maximale
+
+| Option | Description |
+|--------|-------------|
+| -a | Afficher les limitations |
+| -c | Limiter la création de fichier core dump |
+| -u | Restreindre le nombre de processus simultanés |
+| -t | Limiter le temps CPU |
+| -r | Limiter la priorité des processus lancés  |
+| -n | Limiter le nombre de fichiers ouverts |
+| -f | Limiter la taille des fichiers écrits |
+| -p | Limiter le nombre de pipes |
+
 ## HTTP
 
 ### Extraire le nom de fichier depuis son URL
