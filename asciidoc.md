@@ -13,6 +13,7 @@
 
 ### Others
 
+* [Browser Extension](https://github.com/asciidoctor/asciidoctor-browser-extension)
 * [Awesome Asciidoctor "tips"](http://mrhaki.blogspot.com/2017/10/awesome-asciidoctor-prevent.html)
 * [User Guide](http://www.methods.co.nz/asciidoc/userguide.html)
 * [DocGist](http://gist.asciidoctor.org/)
