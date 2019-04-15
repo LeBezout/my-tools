@@ -12,6 +12,7 @@
 * :fr: `AFNOR` : Association française de normalisation
 * :gb: `AI` : Actificial Intelligence
 * :gb: `AJAX` : Asynchronous JAvaScript and XML
+* :gb: `AJP` : Apache JServ Protocol
 * :fr: `ANSSI` : Agence Nationale de la Sécurité des Systèmes d'Information
 * :gb: `API` : Application Provider Interface
 * :gb: `APM` : Application Performance Management
