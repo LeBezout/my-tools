@@ -492,6 +492,9 @@ Recherche textuelle dans des fichiers. Exemple : `grep -rnw '/path/to/somewhere/
 * `-n` is line number, and
 * `-w` stands for match the whole word.
 * `-l` (lower-case L) can be added to just give the file name of matching files.
+* `-v` affiche les lignes ne contenant pas la chaîne
+* `-c` compte le nombre de lignes contenant la chaîne
+* `-x` ligne correspondant exactement à la chaîne
 
 Along with these, `--exclude`, `--include`, `--exclude-dir` flags could be used for efficient searching:
 
@@ -507,6 +510,9 @@ search() {
 }
 ```
 
+* :bulb: Recherche des lignes ne contant pas un motif : `grep -v "mon motif" monfichier.txt`
+* :bulb: Recherche des fichiers ne contant pas un motif : `grep -L "mon motif" *.txt`
+
 ### tail / head
 
 * `echo $data | tail --lines=<n>` avec `<n>` le nombre de lignes en partant de la fin
@@ -518,7 +524,7 @@ ou `--bytes=<n>` avec `<n>` le nombre d'octets
 
 ### find
 
-TODO
+* Compter les fichiers "sh" d'une arborescence : `find . -type f -name "*.sh" -ls | wc -l`
 
 ### wc
 
