@@ -211,6 +211,7 @@
 * :gb: `SOC` : Separation Of Concerns
 * :gb: `SPI` : Single-Page Application
 * :gb: `SPI` : Service Provider Interface
+* :gb: `SPOF` : Single Point Of Failure
 * :gb: `SQL` : Structured Query Language
 * :gb: `SRP` : Single Responsibility Principle
 * :gb: `SSL` : Secure Sockets Layer
