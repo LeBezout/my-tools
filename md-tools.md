@@ -82,13 +82,19 @@ _   underscore
 !   exclamation mark
 ```
 
+### Special Characters
+
+### Arrows
+
+* `⇒`
+
 ### Borders
 
 * `└─`
 * `├─`
 * `─`
 
-### Special Characters
+### Others
 
 * Á -> &Aacute;
 * á -> &aacute;
