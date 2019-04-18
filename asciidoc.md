@@ -119,6 +119,15 @@ What is Asciidoctor?::
 What is the answer to the Ultimate Question?:: 42
 ```
 
+## TOC
+
+:link: <https://asciidoctor.org/docs/user-manual/#user-toc>
+
+* `:toc: auto|left|right|macro|preamble` Defaults to auto if value is unspecified. When `toc` is set to `preamble`, the TOC is placed immediately below the preamble.
+* `:toc-title: Contents` Default value is Table of Contents.
+* `:toclevels: 4` Default value is 2.
+* `:!toc-title:`
+
 ## Tables
 
 * [Changing Table and Column Width](http://mrhaki.blogspot.com/2014/11/awesome-asciidoctor-changing-table-and.html)
@@ -150,12 +159,12 @@ Exemples :
 
 ## Symbols
 
+### Special-characters
+
 * [special-characters-and-symbols](https://docs.antora.org/antora/1.0/asciidoc/special-characters-and-symbols/)
 * PI `{amp}#960;`
 
-## Inline Icons
-
-Quelques exemples :
+### Inline Icons
 
 * `icon:bolt[]` (foudre)
 * `icon:heart[]`
@@ -185,3 +194,17 @@ Quelques exemples :
 * `icon:toggle-on[] icon:toggle-off[]`
 
 :information_source: <https://fontawesome.com/icons>
+
+### GitHub configuration 
+
+```asciidoc
+ifndef::env-github[:icons: font]
+ifdef::env-github[]
+:!toc-title:
+:caution-caption: :fire:
+:important-caption: :exclamation:
+:note-caption: :paperclip:
+:tip-caption: :bulb:
+:warning-caption: :warning:
+endif::[]
+```
