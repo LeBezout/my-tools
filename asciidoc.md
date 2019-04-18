@@ -52,6 +52,16 @@
 * Horizontal rule : `'''`
 * Page break : `<<<`
 
+## Images
+
+:link: <https://asciidoctor.org/docs/user-manual/#images>
+
+syntaxe : `image::path[alt="Flower",title="Flower",width=640,height=480,float="right",align="center",pdfwidth="100%"]`
+
+```adoc
+image:icons/play.png[Play, title="Play"]
+```
+
 ## Lists
 
 :information_source: To force the start of a new list, offset the two lists by an empty line comment.
