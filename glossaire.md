@@ -157,8 +157,10 @@
 
 * :gb: `NAS` : Network Attached Storage
 * :gb: `NFS` : Network File System
+* :gb: `NPM` : Node Package Manager
 * :gb: `NTFS` : New Technology File System
 * :gb: `NTP` : Network Time Protocol
+* :gb: `NVM` : Node Version Manager
 
 ## O
 
@@ -191,6 +193,7 @@
 * :fr: `RGPD` : Règlement Général sur la Protection des Données
 * :gb: `RPC` : Remote Procedure Call
 * :fr: `RSSI` : Responsable de la Sécurité des Systèmes d'Information
+* :gb: `RVM` : Ruby Version Manager
 
 ## S
 
