@@ -217,6 +217,7 @@
 * :gb: `SSL` : Secure Sockets Layer
 * :gb: `SSO` : Single Sign-On
 * :gb: `STXX` : Struts for Transforming XML with XSL
+* :gb: `SVG` : Scalable Vector Graphics
 * :gb: `SWT` : Standard Widget Toolkit
 
 ## T
@@ -242,6 +243,7 @@
 ## V
 
 * :gb: `VM` : Virtual Machine
+* :gb: `VML` : Vector Markup Language
 * :gb: `VPN` : Virtual Private Network
 * :gb: `VO` : Value Object
 
