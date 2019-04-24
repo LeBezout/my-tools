@@ -16,6 +16,7 @@
 * :fr: `ANSSI` : Agence Nationale de la Sécurité des Systèmes d'Information
 * :gb: `API` : Application Provider Interface
 * :gb: `APM` : Application Performance Management
+* :gb: `AWS` : Amazon Web Services
 * :gb: `AWT` : Abstract Windows Toolkit
 
 ## B
@@ -155,6 +156,7 @@
 
 ## N
 
+* :gb: `NaN` : Not a Number
 * :gb: `NAS` : Network Attached Storage
 * :gb: `NFS` : Network File System
 * :gb: `NPM` : Node Package Manager
@@ -228,6 +230,7 @@
 * :fr: `TAI` : Temps Atomique International
 * :gb: `TAI` : International Atomic Time
 * :gb: `TDD` : Tests Driven Development
+* :gb: `TFS` : Team Foundation Server
 * :fr: `TIC` : Technologies de l'Information et de la Communication
 * :gb: `TL;DR` : Too Long; Don't Read
 * :gb: `TLS` : Transport Layer Security
@@ -261,6 +264,7 @@
 
 ## X
 
+* :gb: `XHR` : Xml Http Request
 * :gb: `XML` : eXtensible Markup Language
 * :gb: `XSL` : eXtensible Stylesheet Language
 * :gb: `XSLT` : eXtensible Stylesheet Language Transformation
