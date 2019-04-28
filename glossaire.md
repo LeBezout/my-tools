@@ -145,6 +145,7 @@
 ## L
 
 * :gb: `LDAP` : Lightweight Directory Access Protocol
+* :gb: `LDIF` : LDAP Data Interchange File
 * :gb: `LOV` : List Of Value
 * :gb: `LSP` : Liskov Substitution Principle
 * :gb: `LTS` : Long Term Support
