@@ -97,6 +97,7 @@
 * :gb: `IHS` : IBM HTTP Server
 * :gb: `IIS` : Internet Information Service
 * :gb: `IMAP` : Internet Message Access Protocol
+* :gb: `IPA` : Intelligent  Process Automation
 * :gb: `IOT` : Internet Of Things
 * :gb: `IT` : Information Technology
 * :gb: `ISP` : Interface Segregation Principle
@@ -194,6 +195,7 @@
 * :gb: `RFC` : Requests For Comments
 * :gb: `RHEL` : Red Hat Enterprise Linux
 * :fr: `RGPD` : Règlement Général sur la Protection des Données
+* :gb: `RPA` : Robotic Process Automation
 * :gb: `RPC` : Remote Procedure Call
 * :fr: `RSSI` : Responsable de la Sécurité des Systèmes d'Information
 * :gb: `RVM` : Ruby Version Manager
