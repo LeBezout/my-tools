@@ -32,6 +32,7 @@
 * :gb: `CAS` : Code Access Security
 * :gb: `CAS` : Conditional Access System
 * :gb: `CDN` : Content Delivery Network
+* :gb: `CentOS` : Community ENnterprise Operating System
 * :gb: `CI/CD` : Continuous Integration / Continuous Deployment
 * :gb: `CIFS` : Common Internet File System
 * :gb: `CLI` : Command Line Interface
