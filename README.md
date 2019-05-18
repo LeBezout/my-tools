@@ -6,4 +6,5 @@
 * [Shell Syntax - Cheat Sheets](shell-syntax.md)
 * [Markdown tools & reminders](md-tools.md)
 * [AsciiDoc tools & reminders](asciidoc.md)
+* [Configuration IntelliJ IDEA](intellij.md)
 * [Some ASCII Arts](ascii-art.md)
