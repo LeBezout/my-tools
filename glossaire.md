@@ -199,6 +199,8 @@
 * :gb: `RPA` : Robotic Process Automation
 * :gb: `RPC` : Remote Procedure Call
 * :fr: `RSSI` : Responsable de la Sécurité des Systèmes d'Information
+* :gb: `RPO` : Recovery Point Objective
+* :gb: `RTO` : Recovery Time Objective
 * :gb: `RVM` : Ruby Version Manager
 
 ## S
@@ -206,10 +208,13 @@
 * :gb: `SaaS` : Software as a Service
 * :gb: `SAN` : Storage Area Network
 * :gb: `SCA` : Software Composition Analysis
+* :gb: `SCA` : Static Code Analysis
 * :gb: `SCP` : Secure Copy Protocol
 * :gb: `SEO` : Search Engine Optimization
 * :fr: `SGBD/SGBDR` : Système de Gestion de Base de Données Relationnelle
+* :gb: `SLA` : Service Level Agreement
 * :gb: `SLF4J` : Simple Logging Factory For Java
+* :gb: `SLO` : Service Level Objectives
 * :gb: `SNI` : Server Name Indication
 * :gb: `SNMP` : Simple Network Management Protocol
 * :gb: `SMB` : Server Message Block
