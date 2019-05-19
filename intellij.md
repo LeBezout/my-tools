@@ -22,6 +22,7 @@
 
 | Fonction | Raccourci Eclipse | Raccourci IntelliJ |
 | -------- | ----------------- | ------------------ |
+| Générer `System.out.println` | syso | sout | 
 | Structure | CTRL+O | CTRL+F12 |
 | Accès à une classe | CTRL+SHIFT+T | CTRL+N |
 | Accès à un fichier | CTRL+SHIFT+R | CTRL+SHIFT+N |
