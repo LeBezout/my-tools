@@ -29,6 +29,26 @@
 * [AsciiDoc](https://plugins.jetbrains.com/plugin/7391-asciidoc)
 * [Bash Support](https://plugins.jetbrains.com/plugin/4230-bashsupport)
 
+## Junit 5
+
+Ajouter `junit-platform-launcher` correspondant à la version de Junit 5 utilisée :
+
+```xml
+<!-- Junit5 -->
+<dependency>
+  <groupId>org.junit.jupiter</groupId>
+  <artifactId>junit-jupiter-api</artifactId>
+  <version>5.4.2</version>
+  <scope>test</scope>
+</dependency>
+<dependency>
+  <groupId>org.junit.platform</groupId>
+  <artifactId>junit-platform-launcher</artifactId>
+  <version>1.4.2</version>
+  <scope>test</scope>
+</dependency>
+```
+
 ## Correspondance Eclipse
 
 | Fonction | Raccourci Eclipse | Raccourci IntelliJ |
