@@ -20,9 +20,9 @@
 
 ## Plugins
 
-* Maven Helper Plugin
-* Snyk Vulnerabilities Scanning
-* SonarLint
+* [Maven Helper Plugin](https://plugins.jetbrains.com/plugin/7179-maven-helper)
+* [Snyk Vulnerabilities Scanning](https://plugins.jetbrains.com/plugin/10972-snyk-vulnerability-scanning)
+* [SonarLint](https://plugins.jetbrains.com/plugin/7973-sonarlint)
 
 ## Correspondance Eclipse
 
