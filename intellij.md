@@ -18,6 +18,12 @@
 * Editor > Spelling
   * Ajouter le [dictionnaire français](http://www.winedt.org/dict/fr.zip)
 
+## Plugins
+
+* Maven Helper Plugin
+* Snyk Vulnerabilities Scanning
+* SonarLint
+
 ## Correspondance Eclipse
 
 | Fonction | Raccourci Eclipse | Raccourci IntelliJ |
