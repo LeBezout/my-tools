@@ -17,12 +17,17 @@
   * Décocher "_Autoscroll to Source_" via la roue crantée de la vue _project_
 * Editor > Spelling
   * Ajouter le [dictionnaire français](http://www.winedt.org/dict/fr.zip)
+* Build, Execution, Deployment > Compiler > Annotation Processors
+  * Enable annotation processing (pour Lombok par exemple)
 
 ## Plugins
 
 * [Maven Helper Plugin](https://plugins.jetbrains.com/plugin/7179-maven-helper)
 * [Snyk Vulnerabilities Scanning](https://plugins.jetbrains.com/plugin/10972-snyk-vulnerability-scanning)
 * [SonarLint](https://plugins.jetbrains.com/plugin/7973-sonarlint)
+* [Lombok](https://plugins.jetbrains.com/plugin/6317-lombok)
+* [AsciiDoc](https://plugins.jetbrains.com/plugin/7391-asciidoc)
+* [Bash Support](https://plugins.jetbrains.com/plugin/4230-bashsupport)
 
 ## Correspondance Eclipse
 
