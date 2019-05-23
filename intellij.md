@@ -4,6 +4,8 @@
 
 ## Config personnelle
 
+* Appearence & Behavior
+  * Small labels in editor tabs
 * Editor > General > Editor Tabs
   * Mark modified tabs with asterik
   * Tab Limit 20 au lieu de 10
