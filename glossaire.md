@@ -173,6 +173,7 @@
 * :gb: `ORM` : Object-Relational Mapping
 * :gb: `OS` : Operating System
 * :gb: `OSS` : Open-Source Software
+* :gb: `OTP` : Open Telecom Platform
 * :gb: `OWASP` : Open Web Application Security Project
 
 ## P
