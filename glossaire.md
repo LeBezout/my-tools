@@ -52,6 +52,7 @@
 * :gb: `DDD` : Domain Driven Design
 * :gb: `DDL` : Data Definition Language ou Data Description Language
 * :gb: `DES` : Data Encryption Standard
+* :gb: `DHCP` : Dynamic Host Configuration Protocol
 * :gb: `DI` : Dependency Injection
 * :gb: `DIP` : Dependency Inversion Principle
 * :gb: `DNS` : Domain Name System
@@ -154,6 +155,7 @@
 
 ## M
 
+* :gb: `MAC` : Medium Access Control
 * :gb: `MD5` : Message Digest 5
 * :gb: `MVP` : Minimum Viable Product
 
@@ -179,6 +181,7 @@
 ## P
 
 * :gb: `PaaS` : Platform as a Service
+* :gb: `PAC` : Proxy Auto Configuration
 * :fr: `PCA` : Plan de Continuité de l'Activité
 * :gb: `PBE` : Password-Based Encryption
 * :gb: `PCBC` : Propagating Cipher Block Chaining
@@ -239,6 +242,7 @@
 
 * :fr: `TAI` : Temps Atomique International
 * :gb: `TAI` : International Atomic Time
+* :gb: `TCP` : Transmission Control Protocol
 * :gb: `TDD` : Tests Driven Development
 * :gb: `TFS` : Team Foundation Server
 * :fr: `TIC` : Technologies de l'Information et de la Communication
@@ -249,6 +253,7 @@
 ## U
 
 * :gb: `UDDI` : Universal Description Discovery and Integration
+* :gb: `UDP` : User Datagram Protocol
 * :gb: `UFS` : Unix File System
 * :gb: `UI` : User Interface
 * :gb: `URI` : Uniform Resource Identifier
@@ -269,6 +274,7 @@
 * :gb: `WAF` : Wepp Application Firewall
 * :gb: `WAS` : WebSphere Application Server
 * :gb: `WADL` : Web Application Description Language
+* :gb: `WPAD` : Web Proxy Autodiscovery Protocol
 * :gb: `WSDL` : Web Services Description Language
 * :gb: `WS-I` : Web Services Interoperability
 
