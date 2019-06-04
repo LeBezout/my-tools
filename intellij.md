@@ -35,7 +35,7 @@
 
 * File > Settings > Build, Execution, Deployment > Build Tools > Maven.
 * À chaque projet : File > Project Settings > Build, Execution, Deployment > Build Tools > Maven.
-* Pour tous les projets : File | Other settings | Settings for New Projects | Build, Execution, Deployment | Build Tools | Maven.
+* Pour tous les projets : File > Other settings > Settings for New Projects > Build, Execution, Deployment > Build Tools > Maven.
 
 ## Plugins
 
