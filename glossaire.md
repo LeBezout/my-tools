@@ -216,6 +216,7 @@
 * :gb: `SCP` : Secure Copy Protocol
 * :gb: `SEO` : Search Engine Optimization
 * :fr: `SGBD/SGBDR` : Système de Gestion de Base de Données Relationnelle
+* :gb: `SIEM` : Security Information Management System
 * :gb: `SLA` : Service Level Agreement
 * :gb: `SLF4J` : Simple Logging Factory For Java
 * :gb: `SLO` : Service Level Objectives
