@@ -9,18 +9,33 @@
 * Editor > General > Editor Tabs
   * Mark modified tabs with asterik
   * Tab Limit 20 au lieu de 10
+* Editor > Général > Other
+  * Cocher "_Show quick documentation on mouse move_"
 * Editor > Code Style
   * Hard Wrap at : 180 au lieu de 120
 * Editor > Code Style > Java > Import
   * Class count to use import with * : 25 au lieu de 5 (pour retarder l'utilisation de ce type d'import)
 * Editor > Inspections
   * Décocher Spelling > Typo
-* Empêcher l'ouverture automatique des fichiers des la sélection
-  * Décocher "_Autoscroll to Source_" via la roue crantée de la vue _project_
 * Editor > Spelling
   * Ajouter le [dictionnaire français](http://www.winedt.org/dict/fr.zip)
 * Build, Execution, Deployment > Compiler > Annotation Processors
   * Enable annotation processing (pour Lombok par exemple)
+* Empêcher l'ouverture automatique des fichiers des la sélection
+  * Décocher "_Autoscroll to Source_" via la roue crantée de la vue _project_
+
+## Config outils
+
+### Configurer le SDK	
+
+* À chaque projet : File > Project Structure > Project Settings > Project > Project SDK.
+* Pour tous les projets : File > Other settings > Structure for New Projects > Project Settings > Project > Project SDK.
+
+### Configurer Maven	
+
+* File > Settings > Build, Execution, Deployment > Build Tools > Maven.
+* À chaque projet : File > Project Settings > Build, Execution, Deployment > Build Tools > Maven.
+* Pour tous les projets : File | Other settings | Settings for New Projects | Build, Execution, Deployment | Build Tools | Maven.
 
 ## Plugins
 
