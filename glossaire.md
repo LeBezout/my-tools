@@ -167,6 +167,7 @@
 * :gb: `NFS` : Network File System
 * :gb: `NPM` : Node Package Manager
 * :gb: `NTFS` : New Technology File System
+* :gb: `NTLM` : NT Lan Manager
 * :gb: `NTP` : Network Time Protocol
 * :gb: `NVM` : Node Version Manager
 
