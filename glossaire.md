@@ -22,6 +22,7 @@
 ## B
 
 * :gb: `BDD` : Behavior Driven Development
+* :gb: `BFF` : Backend For Frontend
 * :gb: `BOM` : Bill Of Materials
 * :gb: `BOM` : Byte Order Mark
 * :gb: `BYOD` : Bring Your Own Device
