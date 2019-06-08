@@ -198,6 +198,7 @@
 
 ## R
 
+* :gb: `REPL` : Read-Eval-Print-Loop
 * :gb: `REST` : REpresentational State Transfer
 * :gb: `RFC` : Requests For Comments
 * :gb: `RHEL` : Red Hat Enterprise Linux
