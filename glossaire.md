@@ -285,6 +285,7 @@
 
 * :gb: `XHR` : Xml Http Request
 * :gb: `XML` : eXtensible Markup Language
+* :gb: `XMPP` : eXtensible Messaging and Presence Protocol
 * :gb: `XSL` : eXtensible Stylesheet Language
 * :gb: `XSLT` : eXtensible Stylesheet Language Transformation
 * :gb: `XSS` : Cross (X) Site Scripting
