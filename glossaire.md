@@ -58,6 +58,8 @@
 * :gb: `DIP` : Dependency Inversion Principle
 * :gb: `DNS` : Domain Name System
 * :gb: `DOM` : Document Object Model
+* :gb: `DOS` : Deni Of Service
+* :gb: `DDOS` : Distributed Deni Of Service
 * :fr: `DSI` : Direction des Systèmes d'Information
 * :gb: `DRY` : Don't Repeat Yourself
 * :gb: `DSL` : Domain Specific Language
@@ -70,6 +72,7 @@
 * :gb: `EJB` : Entreprise Java Bean
 * :gb: `EPEL` : Extra Packages for Enterprise Linux
 * :gb: `ERP` : Enterprise Ressource Planning
+* :gb: `ESB` : Enterprise Service Bus
 * :gb: `ETL` : Extract Transform Load
 
 ## F
@@ -280,6 +283,7 @@
 * :gb: `WAF` : Wepp Application Firewall
 * :gb: `WAS` : WebSphere Application Server
 * :gb: `WADL` : Web Application Description Language
+* :gb: `WOA`: Web Oriented Architecture
 * :gb: `WPAD` : Web Proxy Autodiscovery Protocol
 * :gb: `WSDL` : Web Services Description Language
 * :gb: `WS-I` : Web Services Interoperability
