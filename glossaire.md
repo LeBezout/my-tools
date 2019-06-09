@@ -110,6 +110,7 @@
 * :gb: `JIT` : Just In Time
 * :gb: `JSON` : JavaScript Object Notation
 * :gb: `JWT` : JSON Web Token
+* :gb: `JWS`: JSON Web Signatures
 * :gb: Java Eco-système :
   * `JDK` : Java Development Kit
   * `JRE` : Java Runtime Environment
@@ -174,6 +175,7 @@
 ## O
 
 * :gb: `OCP` : Open/Closed Principle
+* :gb: `OIDC` : OpenID Connect
 * :gb: `ORM` : Object-Relational Mapping
 * :gb: `OS` : Operating System
 * :gb: `OSS` : Open-Source Software
