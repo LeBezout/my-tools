@@ -183,6 +183,8 @@
 * :gb: `OS` : Operating System
 * :gb: `OSS` : Open-Source Software
 * :gb: `OTP` : Open Telecom Platform
+* :gb: `OVA` : Open Virtual Appliance
+* :gb: `OVF` : Open Virtualization Format
 * :gb: `OWASP` : Open Web Application Security Project
 
 ## P
@@ -272,6 +274,11 @@
 
 ## V
 
+* :gb: `VDI` : Virtual Device Interface
+* :gb: `VDI` : Virtual Desktop Infrastructure
+* :gb: `VDI` : VirtualBox Disk Image
+* :gb: `VHD` : Virtual Hard Drive
+* :gb: `VMDK` : Virtual Machine Disk
 * :gb: `VM` : Virtual Machine
 * :gb: `VML` : Vector Markup Language
 * :gb: `VPN` : Virtual Private Network
