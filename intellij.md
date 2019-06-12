@@ -4,12 +4,12 @@
 
 ## Config personnelle
 
-* Appearence & Behavior
+* Appearence & Behavior > Appearence
   * Small labels in editor tabs
 * Editor > General > Editor Tabs
   * Mark modified tabs with asterik
   * Tab Limit 20 au lieu de 10
-* Editor > Général > Other
+* Editor > General > Other
   * Cocher "_Show quick documentation on mouse move_"
 * Editor > Code Style
   * Hard Wrap at : 180 au lieu de 120
