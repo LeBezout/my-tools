@@ -168,6 +168,7 @@
 
 * :gb: `NaN` : Not a Number
 * :gb: `NAS` : Network Attached Storage
+* :gb: `NAT` : Network Address Translation
 * :gb: `NFS` : Network File System
 * :gb: `NPM` : Node Package Manager
 * :gb: `NTFS` : New Technology File System
@@ -191,6 +192,7 @@
 
 * :gb: `PaaS` : Platform as a Service
 * :gb: `PAC` : Proxy Auto Configuration
+* :gb: `PAT` : Port Address Translation
 * :fr: `PCA` : Plan de Continuité de l'Activité
 * :gb: `PBE` : Password-Based Encryption
 * :gb: `PCBC` : Propagating Cipher Block Chaining
