@@ -247,6 +247,7 @@
 * :gb: `SRP` : Single Responsibility Principle
 * :gb: `SSL` : Secure Sockets Layer
 * :gb: `SSO` : Single Sign-On
+* :gb: `SSR` : Server Side Rendering
 * :gb: `STXX` : Struts for Transforming XML with XSL
 * :gb: `SVG` : Scalable Vector Graphics
 * :gb: `SWT` : Standard Widget Toolkit
