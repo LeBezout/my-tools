@@ -51,11 +51,12 @@
 * :gb: `DAO` : Data Access Object
 * :gb: `DAS` : Direct Attached Storage
 * :gb: `DDD` : Domain Driven Design
-* :gb: `DDL` : Data Definition Language ou Data Description Language
+* :gb: `DDL` : Data Definition Language (ou Data Description Language)
 * :gb: `DES` : Data Encryption Standard
 * :gb: `DHCP` : Dynamic Host Configuration Protocol
 * :gb: `DI` : Dependency Injection
 * :gb: `DIP` : Dependency Inversion Principle
+* :gb: `DML` : Data Manipulation Language
 * :gb: `DNS` : Domain Name System
 * :gb: `DOM` : Document Object Model
 * :gb: `DOS` : Deni Of Service
