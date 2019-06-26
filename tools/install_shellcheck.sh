@@ -1,7 +1,7 @@
-#!/bin/sh
+#!/bin/bash
 
-ARCHIVE_NAME="shellcheck-stable.linux.x86_64.tar.xz"
-ARCHIVE_URL="https://storage.googleapis.com/shellcheck/${ARCHIVE_NAME}"
+readonly ARCHIVE_NAME="shellcheck-stable.linux.x86_64.tar.xz"
+readonly ARCHIVE_URL="https://storage.googleapis.com/shellcheck/${ARCHIVE_NAME}"
 
 echo "Downloading binary ..."
 if ! curl --fail --location "${ARCHIVE_URL}" --remote-name
@@ -22,7 +22,7 @@ then
   echo "Fail to delete archive !" 1>&2;
 fi
 
-EXTRACT_DIR=./shellcheck-stable
+readonly EXTRACT_DIR=./shellcheck-stable
 if ! -f "${EXTRACT_DIR}/shellcheck"
 then
   echo "shellcheck binary not found !" 1>&2;
