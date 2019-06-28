@@ -11,7 +11,10 @@ readonly datafile=${1:-~/data.txt}
 
 # TODO : handle comments //
 
-# Supprimer la dernière virgule
+# Suppression des espaces, tabulations, ... indésirables en début et fin ([[:space:]] -> [ \t\v\f] -> All whitespace chars)
+sed -i 's/^[[:space:]]*//;s/[[:space:]]*$//' "${datafile}"
+
+# Supprimer le dernier caractère ... qui doit être un point virgule
 sed -i "$ s/.$//" "${datafile}"
 
 # Remplacer tous les ; de fin de ligne par une virgule
