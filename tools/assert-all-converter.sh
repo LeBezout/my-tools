@@ -1,5 +1,5 @@
 #!/bin/bash
-# Script de convertion de lignes Assertions.assert* vers un bloc Assertions.assertAll
+# Script de conversion d'un bloc de lignes Assertions.assert* vers un bloc Assertions.assertAll pour JUnit5
 
 tmpfile=${1:-~/data.txt}
 
