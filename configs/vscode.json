@@ -1,0 +1,15 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.startupEditor": "newUntitledFile",
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false,
+    "files.maxMemoryForLargeFilesMB": 2056,
+    "cSpell.language": "en,fr",
+    "editor.fontSize": 12,
+    "editor.suggestSelection": "first",
+    "markdown.preview.fontSize": 12,
+    "terminal.integrated.fontSize": 12,
+    "terminal.integrated.copyOnSelection": true,
+    "files.trimTrailingWhitespace": true,
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+}
