@@ -1,15 +1,73 @@
 {
+    "window.restoreFullscreen": true,
+    "window.newWindowDimensions": "maximized",
+    "window.zoomLevel": 0,
     "workbench.iconTheme": "material-icon-theme",
-    "workbench.startupEditor": "newUntitledFile",
+    "workbench.startupEditor": "none",
+    "editor.tabSize": 2,
+    "editor.wordWrap": "off",
+    "editor.minimap.enabled": true,
+    "editor.minimap.renderCharacters": false,
+    "editor.dragAndDrop": true,
+    "editor.suggestSelection": "first",
+    
     "telemetry.enableCrashReporter": false,
     "telemetry.enableTelemetry": false,
+    "vscode-mysql.enableTelemetry": false,
+    
     "files.maxMemoryForLargeFilesMB": 2056,
+    "files.trimTrailingWhitespace": true,
+    "files.associations": {
+        ".gitattributes" : "git",
+    },
+    "[yaml]": {
+        "files.encoding": "utf8"
+    },
+    "[ignore]": {
+        "files.encoding": "utf8"
+    },
+    "[plaintext]": {
+        "files.encoding": "utf8"
+    },
+    "[properties]": {
+        "files.encoding": "iso88591",
+        "files.trimTrailingWhitespace": false,
+    },
+    "[bat]": {
+        "files.encoding": "windows1252",
+    },
+    
     "cSpell.language": "en,fr",
     "editor.fontSize": 12,
-    "editor.suggestSelection": "first",
+    
     "markdown.preview.fontSize": 12,
+    
     "terminal.integrated.fontSize": 12,
     "terminal.integrated.copyOnSelection": true,
-    "files.trimTrailingWhitespace": true,
+    
+    "cSpell.language": "en,fr,fr-FR",
+    "cSpell.userWords": [
+        "binômage",
+        "classpath",
+        "cyclomatique",
+        "enchainable",
+        "enchainables",
+        "groupama",
+        "informatica",
+        "inmaintenable",
+        "inmaintenables",
+        "intelli",
+        "jdbc",
+        "ldap",
+        "liquibase",
+        "lombok",
+        "servlet",
+        "vagrantfile",
+        "variabilisée",
+        "éditique",
+        "éditiques",
+        "shellcheck"
+    ],
+
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
 }
