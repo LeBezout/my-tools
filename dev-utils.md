@@ -58,7 +58,7 @@
 * :pencil2: [AsciiDoc Live](https://asciidoclive.com/edit/scratch/1)
 * :information_source: [AsciiDoc Special Characters and Symbols](https://docs.antora.org/antora/1.0/asciidoc/special-characters-and-symbols/)
 * :bulb: [Markdown DocToc](https://github.com/thlorenz/doctoc)
-* :pencil2: [Mermaid Live Editor](https://mermaidjs.github.io/mermaid-live-editor/) (Online FlowChart & Diagrams Editor)
+* :pencil2: [Mermaid Live Editor](https://mermaidjs.github.io/mermaid-live-editor/) | Online FlowChart & Diagrams Editor
 * :pencil2: [Draw.io / Diagrams](https://www.draw.io/)
 * :wrench: [S>G : ScreenToGif](https://www.screentogif.com/?l=fr_fr) :warning: _not inline_
 * :pencil2: [PlantUML - Diagrammes UML](http://plantuml.com/fr/)
