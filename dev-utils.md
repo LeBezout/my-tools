@@ -33,6 +33,10 @@
 * :white_check_mark: [Security Headers](https://securityheaders.com/?q=github.com&followRedirects=on)
 * :white_check_mark: [CryptCheck](https://tls.imirhil.fr/https/github.com)
 
+## RegExp
+
+* [RegExr](https://regexr.com/) is an online tool to learn, build, & test Regular Expressions
+
 ## Web et interfaces
 
 * :pencil2: [Codes couleurs - color-hex.com/](https://www.color-hex.com/color/fe7d37)
@@ -57,7 +61,7 @@
 * :pencil2: [Mermaid Live Editor](https://mermaidjs.github.io/mermaid-live-editor/) (Online FlowChart & Diagrams Editor)
 * :pencil2: [Draw.io / Diagrams](https://www.draw.io/)
 * :wrench: [S>G : ScreenToGif](https://www.screentogif.com/?l=fr_fr) :warning: _not inline_
-* :pencil2: [PantUML - Diagrammes UML](http://plantuml.com/fr/)
+* :pencil2: [PlantUML - Diagrammes UML](http://plantuml.com/fr/)
 
 ## Maven
 
