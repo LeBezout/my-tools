@@ -35,7 +35,7 @@
 
 ## RegExp
 
-* [RegExr](https://regexr.com/) is an online tool to learn, build, & test Regular Expressions
+* :white_check_mark: [RegExr](https://regexr.com/) | An online tool to learn, build, & test Regular Expressions
 
 ## Web et interfaces
 
