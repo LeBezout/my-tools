@@ -36,6 +36,7 @@
 ## RegExp
 
 * :white_check_mark: [RegExr](https://regexr.com/) | An online tool to learn, build, & test Regular Expressions
+* :white_check_mark: [Debuggex](https://www.debuggex.com/) | Online visual regex tester
 
 ## Web et interfaces
 
