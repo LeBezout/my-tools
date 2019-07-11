@@ -6,8 +6,8 @@
 * :information_source: [HTML URL Encoding Reference](https://www.w3schools.com/tags/ref_urlencode.asp)
 * :wrench: [URL Decoder](https://www.urldecoder.org/)
 * :wrench: [URL Encoder](https://www.urlencoder.org/)
-* :wrench: [URL – Online Encoders and Decoders](http://url-encode.online-domain-tools.com/)
-* :wrench: [HTTPie - command line HTTP client](https://httpie.org/run)
+* :wrench: [URL Encode](http://url-encode.online-domain-tools.com/) | Online Encoders and Decoders
+* :wrench: [HTTPie](https://httpie.org/run) | A command line HTTP client
 
 ## Caractères et icônes
 
@@ -19,7 +19,7 @@
 * :clipboard: [Emoji cheat sheet for GitHub](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
 * :clipboard: [Unicode Full Emoji List](http://unicode.org/emoji/charts/full-emoji-list.html) :warning: _long à charger_
 * :clipboard: [Bootstrap Glyphicon Components](https://www.w3schools.com/bootstrap/bootstrap_ref_comp_glyphs.asp)
-* :clipboard: [An emoji guide for your commit messages](https://gitmoji.carloscuesta.me/)
+* :clipboard: [GitMoji](https://gitmoji.carloscuesta.me/) | An emoji guide for your commit messages
 
 ## Shell
 
