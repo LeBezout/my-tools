@@ -14,9 +14,10 @@
 * Editor > Code Style
   * Hard Wrap at : 180 au lieu de 120
 * Editor > Code Style > Java > Import
-  * Class count to use import with * : 25 au lieu de 5 (pour retarder l'utilisation de ce type d'import)
+  * Class count to use import with * : 250 au lieu de 5 (pour empêcher l'utilisation de ce type d'import)
 * Editor > Inspections
-  * Décocher Spelling > Typo
+  * ~Décocher Spelling → Typo~
+  * Cocher Serialization issues → Serializable
 * Editor > Spelling
   * Ajouter le [dictionnaire français](http://www.winedt.org/dict/fr.zip)
 * Build, Execution, Deployment > Compiler > Annotation Processors
