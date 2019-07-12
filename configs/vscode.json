@@ -15,6 +15,7 @@
     "telemetry.enableTelemetry": false,
     "vscode-mysql.enableTelemetry": false,
     
+    "files.autoSave": "onWindowChange",
     "files.maxMemoryForLargeFilesMB": 2056,
     "files.trimTrailingWhitespace": true,
     "files.associations": {
