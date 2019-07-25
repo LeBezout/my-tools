@@ -30,15 +30,26 @@ PASTE_YAML_DATA_HERE
 * :warning: -> `:warning:`
 * :bulb: -> `:bulb:`
 * :no_entry_sign: -> `:no_entry_sign:`
-* :scream: -> `😱` -> `:scream:`
+* :exclamation: -> `:exclamation:`
+* :question: -> `:question:`
+* :link: -> `:link:`
+* :bell: -> `:bell:`
 * :star: -> `:star:`
 * :star2: -> `:star2:`
+* :wrench: -> `:wrench:`
 * :beginner: -> `:beginner:`
 * :pushpin: -> `:pushpin:`
 * :arrow_backward: -> `:arrow_backward:`
 * :point_left: -> `:point_left:`
-* :thinking: -> `:thinking:`
+* :point_up: -> `:point_up:`
 * :blue_book: -> `:blue_book:`
+* :pencil: -> `:pencil:`
+* :email: -> `:email:`
+* :thinking: -> `:thinking:`
+* :scream: -> `😱` -> `:scream:`
+* :fr: -> `:fr:`
+* :gb: -> `:gb:`
+* [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
 
 ## Tables
 
@@ -156,8 +167,7 @@ _   underscore
 * ¡ -> &iexcl;
 * ¿ -> &iquest;
 
-## Docs
+## Guides
 
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-* [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
