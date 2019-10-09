@@ -29,7 +29,7 @@
 
 ## SSL
 
-* :white_check_mark: [Qualys SSL Labs](https://www.ssllabs.com/ssltest/analyze.html?d=github.com&hideResults=on)
+* :white_check_mark: [Qualys SSL Labs](https://www.ssllabs.com/ssltest/index.html)
 * :white_check_mark: [Security Headers](https://securityheaders.com/?q=github.com&followRedirects=on)
 * :white_check_mark: [CryptCheck](https://tls.imirhil.fr/https/github.com)
 
