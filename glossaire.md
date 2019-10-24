@@ -13,8 +13,10 @@
 * :gb: `AI` : Actificial Intelligence
 * :gb: `AJAX` : Asynchronous JAvaScript and XML
 * :gb: `AJP` : Apache JServ Protocol
+* :gb: `AMQP` : Advanced Message Queuing Protocol
 * :fr: `ANSSI` : Agence Nationale de la Sécurité des Systèmes d'Information
 * :gb: `API` : Application Provider Interface
+* :gb: `APIM` : API Management
 * :gb: `APM` : Application Performance Management
 * :gb: `AWS` : Amazon Web Services
 * :gb: `AWT` : Abstract Windows Toolkit
