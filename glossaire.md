@@ -181,6 +181,7 @@
 
 ## O
 
+* :gb: `OASIS` : Organization for the Advancement of Structured Information Standards
 * :gb: `OCP` : Open/Closed Principle
 * :gb: `OIDC` : OpenID Connect
 * :gb: `ORM` : Object-Relational Mapping
@@ -225,12 +226,14 @@
 ## S
 
 * :gb: `SaaS` : Software as a Service
+* :gb: `SAML` : Security Assertion Markup Language
 * :gb: `SAN` : Storage Area Network
 * :gb: `SCA` : Software Composition Analysis
 * :gb: `SCA` : Static Code Analysis
 * :gb: `SCP` : Secure Copy Protocol
 * :gb: `SEO` : Search Engine Optimization
 * :fr: `SGBD/SGBDR` : Système de Gestion de Base de Données Relationnelle
+* :gb: `SHA` : Secure Hash Algorithm
 * :gb: `SIEM` : Security Information and Event Management
 * :gb: `SLA` : Service Level Agreement
 * :gb: `SLF4J` : Simple Logging Factory For Java
@@ -269,6 +272,7 @@
 
 ## U
 
+* :gb: `UCS` : Universal Character Set
 * :gb: `UDDI` : Universal Description Discovery and Integration
 * :gb: `UDP` : User Datagram Protocol
 * :gb: `UFS` : Unix File System
@@ -276,6 +280,7 @@
 * :gb: `URI` : Uniform Resource Identifier
 * :gb: `URN` : Uniform Ressource Name
 * :gb: `URL` : Uniform Resource Locator
+* :gb: `UTF-8` : UCS Transformation Format, 8-bit form
 * :gb: `UTC` : Coordinated Universal Time
 
 ## V
@@ -300,6 +305,9 @@
 * :gb: `WPAD` : Web Proxy Autodiscovery Protocol
 * :gb: `WSDL` : Web Services Description Language
 * :gb: `WS-I` : Web Services Interoperability
+* :gb: `WS-S` : Web Services Security
+* :gb: `WSS` : Web Services Security
+* :gb: `WSSE` : Web Services Security
 
 ## X
 
