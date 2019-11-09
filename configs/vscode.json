@@ -28,6 +28,9 @@
     "[ignore]": {
         "files.encoding": "utf8"
     },
+    "[shellscript]": {
+        "files.encoding": "utf8"
+    },
     "[plaintext]": {
         "files.encoding": "utf8"
     },
@@ -37,6 +40,7 @@
     },
     "[bat]": {
         "files.encoding": "windows1252",
+        "files.eol": "\r\n"
     },
     
     "cSpell.language": "en,fr",
@@ -46,6 +50,7 @@
     
     "terminal.integrated.fontSize": 12,
     "terminal.integrated.copyOnSelection": true,
+    "terminal.integrated.rightClickBehavior": "paste",
     
     "cSpell.language": "en,fr,fr-FR",
     "cSpell.userWords": [
