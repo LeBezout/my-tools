@@ -6,24 +6,28 @@
 
 * Appearence & Behavior > Appearence
   * Small labels in editor tabs
+* Appearence & Behavior > System Settings > HTTP proxy
+  * Cocher Auto-detect proxy settings
+* Editor > General
+  * _Other_ : Cocher "_Show quick documentation on mouse move_"
 * Editor > General > Editor Tabs
-  * Mark modified tabs with asterik
-  * Tab Limit 20 au lieu de 10
-* Editor > General > Other
-  * Cocher "_Show quick documentation on mouse move_"
+  * _Mark modified tabs with asterik_
+  * _Tab Limit_ 20 au lieu de 10
 * Editor > Code Style
   * Hard Wrap at : 180 au lieu de 120
-* Editor > Code Style > Java > Import
-  * Class count to use import with * : 250 au lieu de 5 (pour empêcher l'utilisation de ce type d'import)
+* Editor > Code Style > Java
+  * Onglet _Import_ : _Class count to use import with *_ : 250 au lieu de 5 (pour empêcher l'utilisation de ce type d'import)
+  * Onglet _Import_ : _Names count to use static import with *_ : 200 au lieu de 3 (pour empêcher l'utilisation de ce type d'import)
 * Editor > Inspections
   * ~Décocher Spelling → Typo~
-  * Cocher Serialization issues → Serializable
+  * Cocher Java > _Serialization issues_ → Serializable
 * Editor > Spelling
   * Ajouter le [dictionnaire français](http://www.winedt.org/dict/fr.zip)
 * Build, Execution, Deployment > Compiler > Annotation Processors
-  * Enable annotation processing (pour Lombok par exemple)
-* Empêcher l'ouverture automatique des fichiers des la sélection
-  * Décocher "_Autoscroll to Source_" via la roue crantée de la vue _project_
+  * Cocher _Enable annotation processing_ (pour Lombok par exemple)
+* Roue crantée de la vue _project_
+  * Décocher "_Autoscroll to Source_" (Empêcher l'ouverture automatique des fichiers des la sélection)
+  * Cocher "_Autoscoll from source" (activer le suivi dans la vu explorateur)
 
 ## Config outils
 
