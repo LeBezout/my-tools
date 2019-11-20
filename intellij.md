@@ -26,8 +26,8 @@
 * Build, Execution, Deployment > Compiler > Annotation Processors
   * Cocher _Enable annotation processing_ (pour Lombok par exemple)
 * Roue crantée de la vue _project_
-  * Décocher "_Autoscroll to Source_" (Empêcher l'ouverture automatique des fichiers des la sélection)
-  * Cocher "_Autoscoll from source" (activer le suivi dans la vu explorateur)
+  * Décocher "_Autoscroll to Source_" (Empêcher l'ouverture automatique des fichiers dès la sélection)
+  * Cocher "_Autoscoll from source_" (activer le suivi dans la vu explorateur)
 
 ## Config outils
 
