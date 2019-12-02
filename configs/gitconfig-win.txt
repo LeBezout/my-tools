@@ -1,0 +1,21 @@
+[user]
+	email = XX
+	name = XXX
+[core]
+	autocrlf = true
+	safecrlf = false
+	editor = 'C:/Program Files (x86)/Notepad++/notepad++.exe' -multiInst -notabbar -nosession -noPlugin
+[http]
+	sslVerify = false
+[push]
+	default = simple
+[alias]
+	log10 = log --oneline -n 10
+	co = checkout
+	showconfig = config --global --list --show-origin
+[http "https://github.com"]
+	proxy = http://XXX:8080
+	sslVerify = true
+[http "https://gitlab.com"]
+	proxy = http://XXX:8080
+	sslVerify = true
