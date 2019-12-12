@@ -8,6 +8,7 @@
 * :gb: `AD` : Active Directory
 * :gb: `AES` : Advanced Encryption Standard
 * :gb: `AFP` : Apple Filing Protocol
+* :gb: `ADFS` : Active Directory Federation Services
 * :fr: `AFAQ` : Association française pour l'amélioration et le management de la qualité
 * :fr: `AFNOR` : Association française de normalisation
 * :gb: `AI` : Actificial Intelligence
@@ -34,6 +35,7 @@
 * :gb: `CAS` : Client Access Server
 * :gb: `CAS` : Code Access Security
 * :gb: `CAS` : Conditional Access System
+* :gb: `CFT` : Cross File Transfer
 * :gb: `CDN` : Content Delivery Network
 * :gb: `CentOS` : Community ENnterprise Operating System
 * :gb: `CI/CD` : Continuous Integration / Continuous Deployment
@@ -155,6 +157,7 @@
 
 ## L
 
+* :gb: `LAN` : Local Area Network
 * :gb: `LDAP` : Lightweight Directory Access Protocol
 * :gb: `LDIF` : LDAP Data Interchange File
 * :gb: `LOV` : List Of Value
@@ -206,6 +209,7 @@
 * :gb: `POM` : Project Object Model
 * :gb: `POP/POP3` : Post Office Protocol
 * :gb: `POSIX` : Portable Operating System Interface
+* :fr: `PSI` : Plan de Secours Informatique
 
 ## Q
 
@@ -254,6 +258,7 @@
 * :gb: `SSL` : Secure Sockets Layer
 * :gb: `SSO` : Single Sign-On
 * :gb: `SSR` : Server Side Rendering
+* :gb: `STS` : Security Token Service
 * :gb: `STXX` : Struts for Transforming XML with XSL
 * :gb: `SVG` : Scalable Vector Graphics
 * :gb: `SWT` : Standard Widget Toolkit
