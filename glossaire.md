@@ -19,6 +19,7 @@
 * :gb: `API` : Application Provider Interface
 * :gb: `APIM` : API Management
 * :gb: `APM` : Application Performance Management
+* :gb: `ATDD` : Acceptance Test-Driven Development
 * :gb: `AWS` : Amazon Web Services
 * :gb: `AWT` : Abstract Windows Toolkit
 
