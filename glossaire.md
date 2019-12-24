@@ -36,6 +36,7 @@
 * :gb: `CAS` : Client Access Server
 * :gb: `CAS` : Code Access Security
 * :gb: `CAS` : Conditional Access System
+* :gb: `CaaS` : Conteneur as a Service
 * :gb: `CFT` : Cross File Transfer
 * :gb: `CDN` : Content Delivery Network
 * :gb: `CentOS` : Community ENnterprise Operating System
@@ -110,7 +111,8 @@
 * :gb: `IHS` : IBM HTTP Server
 * :gb: `IIS` : Internet Information Service
 * :gb: `IMAP` : Internet Message Access Protocol
-* :gb: `IPA` : Intelligent  Process Automation
+* :gb: `IPA` : Intelligent Process Automation
+* :gb: `IPAM` : IP Address Management
 * :gb: `IOT` : Internet Of Things
 * :gb: `IT` : Information Technology
 * :gb: `ISP` : Interface Segregation Principle
@@ -206,6 +208,7 @@
 * :gb: `PBE` : Password-Based Encryption
 * :gb: `PCBC` : Propagating Cipher Block Chaining
 * :fr: `PIC` : Plateforme d'Intégration Continue
+* :gb: `PKI` : Public Key Infrastructure
 * :gb: `POC` : Proof Of Concept
 * :gb: `POJO` : Plain Old Java Object
 * :gb: `POM` : Project Object Model
