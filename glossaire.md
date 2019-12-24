@@ -194,6 +194,7 @@
 * :gb: `ORM` : Object-Relational Mapping
 * :gb: `OS` : Operating System
 * :gb: `OSS` : Open-Source Software
+* :fr: `OSSR` : Observatoire de la Sécurité des Systèmes d'information et des Réseaux
 * :gb: `OTP` : Open Telecom Platform
 * :gb: `OVA` : Open Virtual Appliance
 * :gb: `OVF` : Open Virtualization Format
