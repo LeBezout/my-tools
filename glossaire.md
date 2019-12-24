@@ -67,6 +67,7 @@
 * :gb: `DOS` : Deni Of Service
 * :gb: `DDOS` : Distributed Deni Of Service
 * :fr: `DSI` : Direction des Systèmes d'Information
+* :gb: `DRP` : Disaster Recory Plan
 * :gb: `DRY` : Don't Repeat Yourself
 * :gb: `DSL` : Domain Specific Language
 * :gb: `DTO` : Data Transfert Object
@@ -210,6 +211,7 @@
 * :gb: `POM` : Project Object Model
 * :gb: `POP/POP3` : Post Office Protocol
 * :gb: `POSIX` : Portable Operating System Interface
+* :fr: `PRA` : Plan de Reprise de l'Activité
 * :fr: `PSI` : Plan de Secours Informatique
 
 ## Q
