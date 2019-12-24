@@ -260,6 +260,7 @@
 * :gb: `SPI` : Service Provider Interface
 * :gb: `SPOF` : Single Point Of Failure
 * :gb: `SQL` : Structured Query Language
+* :gb: `SRE` : Site Reliability Engineer
 * :gb: `SRP` : Single Responsibility Principle
 * :gb: `SSL` : Secure Sockets Layer
 * :gb: `SSO` : Single Sign-On
