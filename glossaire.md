@@ -51,6 +51,7 @@
 * :gb: `CSRF` : Cross-Site Request Forgery (voir XSRF)
 * :gb: `CSS` : Cascading Style Sheets
 * :gb: `CSV` : Comma-Separated Values
+* :gb: `CUT` : Coordinated Universal Time
 
 ## D
 
@@ -71,6 +72,7 @@
 * :gb: `DRP` : Disaster Recory Plan
 * :gb: `DRY` : Don't Repeat Yourself
 * :gb: `DSL` : Domain Specific Language
+* :gb: `DST` : Daylight Saving Time
 * :gb: `DTO` : Data Transfert Object
 
 ## E
@@ -102,6 +104,8 @@
 ## I
 
 * :fr: `IA` : Intelligence Artificielle
+* :gb: `IANA` : Internet Assigned Numbers Authority
+* :gb: `IAT` : International Atomic Time
 * :gb: `IaaS` : Infrastructure as a Service
 * :gb: `IAC` : Infrastructure As Code
 * :gb: `IDE` : Integrated Development Environment
@@ -274,7 +278,6 @@
 ## T
 
 * :fr: `TAI` : Temps Atomique International
-* :gb: `TAI` : International Atomic Time
 * :gb: `TCP` : Transmission Control Protocol
 * :gb: `TDD` : Tests Driven Development
 * :gb: `TFS` : Team Foundation Server
@@ -294,7 +297,7 @@
 * :gb: `URN` : Uniform Ressource Name
 * :gb: `URL` : Uniform Resource Locator
 * :gb: `UTF-8` : UCS Transformation Format, 8-bit form
-* :gb: `UTC` : Coordinated Universal Time
+* :gb: `UTC` : Coordinated Universal Time / Universel Temps Coordonné
 
 ## V
 
