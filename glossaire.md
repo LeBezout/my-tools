@@ -159,6 +159,7 @@
   * `JMF` : Java Media Framework
   * `JSR` : Java Specification Request
   * `JPDA` : Java Platform Debugger Architecture
+  * `JUG` : Java User Group
 
 ## K
 
@@ -222,6 +223,7 @@
 * :gb: `POSIX` : Portable Operating System Interface
 * :fr: `PRA` : Plan de Reprise de l'Activité
 * :fr: `PSI` : Plan de Secours Informatique
+* :gb: `PWA` : Progressive Web Apps
 
 ## Q
 
