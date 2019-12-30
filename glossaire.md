@@ -37,6 +37,7 @@
 * :gb: `CAS` : Code Access Security
 * :gb: `CAS` : Conditional Access System
 * :gb: `CaaS` : Conteneur as a Service
+* :gb: `CFP` : Call For Papers
 * :gb: `CFT` : Cross File Transfer
 * :gb: `CDN` : Content Delivery Network
 * :gb: `CentOS` : Community ENnterprise Operating System
@@ -226,7 +227,7 @@
 
 ## R
 
-* :gb: `REPL` : Read-Eval-Print-Loop
+* :gb: `REPL` : Read-Evaluate-Print-Loop
 * :gb: `REST` : REpresentational State Transfer
 * :gb: `RFC` : Requests For Comments
 * :gb: `RHEL` : Red Hat Enterprise Linux
