@@ -6,6 +6,12 @@
 ## A
 
 * :gb: `AD` : Active Directory
+* :gb: `ADAM` : Active Directory Application Mode
+* :gb: `ADCS` : Active Directory Certificate Services
+* :gb: `ADDS` : Active Directory Domain Services
+* :gb: `ADFS` : Active Directory Federation Services
+* :gb: `ADRMS` : Active Directory Rights Management Services
+* :gb: `ADLDS` : Active Directory Lightweight Directory Services
 * :gb: `AES` : Advanced Encryption Standard
 * :gb: `AFP` : Apple Filing Protocol
 * :gb: `ADFS` : Active Directory Federation Services
