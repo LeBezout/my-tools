@@ -207,6 +207,7 @@
 * :gb: `OSS` : Open-Source Software
 * :fr: `OSSR` : Observatoire de la Sécurité des Systèmes d'information et des Réseaux
 * :gb: `OTP` : Open Telecom Platform
+* :gb: `OTP` : One Time Password
 * :gb: `OVA` : Open Virtual Appliance
 * :gb: `OVF` : Open Virtualization Format
 * :gb: `OWASP` : Open Web Application Security Project
@@ -216,9 +217,10 @@
 * :gb: `PaaS` : Platform as a Service
 * :gb: `PAC` : Proxy Auto Configuration
 * :gb: `PAT` : Port Address Translation
-* :fr: `PCA` : Plan de Continuité de l'Activité
 * :gb: `PBE` : Password-Based Encryption
+* :fr: `PCA` : Plan de Continuité de l'Activité
 * :gb: `PCBC` : Propagating Cipher Block Chaining
+* :gb: `PDF` : Portable Document Format
 * :fr: `PIC` : Plateforme d'Intégration Continue
 * :gb: `PKI` : Public Key Infrastructure
 * :gb: `POC` : Proof Of Concept
