@@ -1,4 +1,4 @@
-# Glossaire - Termes techniques / de l'IT
+# Glossaire / Termes techniques de l'IT
 
 [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) |
 [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [X](#x) | [Y](#y) | [Z](#z)
@@ -41,7 +41,7 @@
 * :gb: `CAS` : Client Access Server
 * :gb: `CAS` : Code Access Security
 * :gb: `CAS` : Conditional Access System
-* :gb: `CaaS` : Conteneur as a Service
+* :gb: `CaaS` : Containers as a Service
 * :gb: `CFP` : Call For Papers
 * :gb: `CFT` : Cross File Transfer
 * :gb: `CDN` : Content Delivery Network
