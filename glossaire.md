@@ -16,8 +16,9 @@
 * :gb: `ADFS` : Active Directory Federation Services
 * :fr: `AFAQ` : Association française pour l'amélioration et le management de la qualité
 * :fr: `AFNOR` : Association française de normalisation
-* :gb: `AI` : Actificial Intelligence
+* :gb: `AI` : Artificial Intelligence
 * :gb: `AJAX` : Asynchronous JAvaScript and XML
+* :gb: `ALPN` : Application-Layer Protocol Negotiation
 * :gb: `AJP` : Apache JServ Protocol
 * :gb: `AMQP` : Advanced Message Queuing Protocol
 * :fr: `ANSSI` : Agence Nationale de la Sécurité des Systèmes d'Information
