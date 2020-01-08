@@ -96,6 +96,7 @@
 
 * :gb: `FaaS` : Function as a Service
 * :gb: `FAT` : File Allocation Table
+* :gb: `FIFO` : Fist In First Out
 * :gb: `FTP` : File Transfer Protocol
 
 ## G
@@ -176,6 +177,7 @@
 * :gb: `LAN` : Local Area Network
 * :gb: `LDAP` : Lightweight Directory Access Protocol
 * :gb: `LDIF` : LDAP Data Interchange File
+* :gb: `LIFO` : Last In First Out
 * :gb: `LOV` : List Of Value
 * :gb: `LSP` : Liskov Substitution Principle
 * :gb: `LTS` : Long Term Support
@@ -242,6 +244,7 @@
 * :gb: `RFC` : Requests For Comments
 * :gb: `RHEL` : Red Hat Enterprise Linux
 * :fr: `RGPD` : Règlement Général sur la Protection des Données
+* :gb: `RMI` : Remote Method Invocation
 * :gb: `RPA` : Robotic Process Automation
 * :gb: `RPC` : Remote Procedure Call
 * :fr: `RSSI` : Responsable de la Sécurité des Systèmes d'Information
@@ -272,7 +275,7 @@
 * :gb: `SOA` : Service Oriented Architecture
 * :gb: `SOAP` : Simple Object Access Protocol
 * :gb: `SOC` : Separation Of Concerns
-* :gb: `SPI` : Single-Page Application
+* :gb: `SPA` : Single-Page Application
 * :gb: `SPI` : Service Provider Interface
 * :gb: `SPOF` : Single Point Of Failure
 * :gb: `SQL` : Structured Query Language
