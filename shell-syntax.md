@@ -45,11 +45,32 @@ if [ condition ] ; then
 fi
 ```
 
+Condition multiple : 
+
+```shell
+if [ condition1 ] && [ condition2 ]; then
+  echo "condition1 ET condition2 vérifiée"
+fi
+```
+
+```shell
+if [ condition1 ] || [ condition2 ]; then
+  echo "condition1 OU condition2 vérifiée"
+fi
+```
+
 Inverser : 
 
 ```shell
 if [ ! condition ]; then
   echo "condition non vérifiée"
+fi
+```
+
+```shell
+if ! command
+then
+  echo "echec command"
 fi
 ```
 
