@@ -104,7 +104,9 @@
 
 ## G
 
+* :gb: `GDK` : GIMP Drawing Kit
 * :gb: `GMT` : Greenwich Mean Time
+* :gb: `GTK` : GIMP ToolKit
 * :gb: `GUI` : Graphical User Interface
 
 ## H
