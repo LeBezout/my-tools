@@ -5,6 +5,7 @@
 
 ## A
 
+* :gb: `ACR` : Authentication Context Class Reference
 * :gb: `AD` : Active Directory
 * :gb: `ADAM` : Active Directory Application Mode
 * :gb: `ADCS` : Active Directory Certificate Services
@@ -21,6 +22,7 @@
 * :gb: `ALPN` : Application-Layer Protocol Negotiation
 * :gb: `AJP` : Apache JServ Protocol
 * :gb: `AMQP` : Advanced Message Queuing Protocol
+* :gb: `AMR` : Authentication Methods References
 * :fr: `ANSSI` : Agence Nationale de la Sécurité des Systèmes d'Information
 * :gb: `API` : Application Provider Interface
 * :gb: `APIM` : API Management
