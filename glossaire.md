@@ -41,6 +41,7 @@
 
 ## C
 
+* :gb: `CA` : Central Authentication
 * :gb: `CAS` : Client Access Server
 * :gb: `CAS` : Code Access Security
 * :gb: `CAS` : Conditional Access System
@@ -66,6 +67,7 @@
 
 * :gb: `DAO` : Data Access Object
 * :gb: `DAS` : Direct Attached Storage
+* :gb: `DCRM` : Dynamic Client Registration Management
 * :gb: `DDD` : Domain Driven Design
 * :gb: `DDL` : Data Definition Language (ou Data Description Language)
 * :gb: `DES` : Data Encryption Standard
@@ -87,6 +89,7 @@
 
 ## E
 
+* :gb: `EAI` : Enterprise Application Integration
 * :gb: `EAP` : Enterprise Application Platform
 * :gb: `ECMA` : European Computer Manufacturers Association
 * :gb: `EJB` : Entreprise Java Bean
