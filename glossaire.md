@@ -78,6 +78,7 @@
 * :fr: `DSI` : Direction des Systèmes d'Information
 * :gb: `DRP` : Disaster Recory Plan
 * :gb: `DRY` : Don't Repeat Yourself
+* :gb: `DSA` : Digital Signature Algorithm
 * :gb: `DSL` : Domain Specific Language
 * :gb: `DST` : Daylight Saving Time
 * :gb: `DTO` : Data Transfert Object
@@ -225,6 +226,7 @@
 * :gb: `PCBC` : Propagating Cipher Block Chaining
 * :gb: `PDF` : Portable Document Format
 * :fr: `PIC` : Plateforme d'Intégration Continue
+* :gb: `PKCE` : Proof Key for Code Exchange
 * :gb: `PKI` : Public Key Infrastructure
 * :gb: `POC` : Proof Of Concept
 * :gb: `POJO` : Plain Old Java Object
@@ -249,6 +251,7 @@
 * :gb: `RPC` : Remote Procedure Call
 * :fr: `RSSI` : Responsable de la Sécurité des Systèmes d'Information
 * :gb: `RPO` : Recovery Point Objective
+* :gb: `RSA` : Rivest-Shamir-Adleman (algorithme de chiffrement de)
 * :gb: `RTO` : Recovery Time Objective
 * :gb: `RVM` : Ruby Version Manager
 
