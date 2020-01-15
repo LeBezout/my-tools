@@ -343,9 +343,10 @@
 * :gb: `WADL` : Web Application Description Language
 * :gb: `WOA`: Web Oriented Architecture
 * :gb: `WPAD` : Web Proxy Autodiscovery Protocol
-* :gb: `WSDL` : Web Services Description Language
 * :gb: `WS-I` : Web Services Interoperability
 * :gb: `WS-S` : Web Services Security
+* :gb: `WSDL` : Web Services Description Language
+* :gb: `WSL` : Windows Subsystem for Linux
 * :gb: `WSS` : Web Services Security
 * :gb: `WSSE` : Web Services Security
 
