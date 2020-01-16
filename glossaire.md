@@ -194,6 +194,7 @@
 
 * :gb: `MAC` : Medium Access Control
 * :gb: `MD5` : Message Digest 5
+* :gb: `MDC` : Mapped Diagnostic Context(s)
 * :gb: `MVP` : Minimum Viable Product
 
 ## N
@@ -201,6 +202,7 @@
 * :gb: `NaN` : Not a Number
 * :gb: `NAS` : Network Attached Storage
 * :gb: `NAT` : Network Address Translation
+* :gb: `NDC` : Nested Diagnostic Context(s)
 * :gb: `NFS` : Network File System
 * :gb: `NPM` : Node Package Manager
 * :gb: `NTFS` : New Technology File System
