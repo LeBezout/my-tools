@@ -67,6 +67,8 @@
 
 * :gb: `DAO` : Data Access Object
 * :gb: `DAS` : Direct Attached Storage
+* :gb: `DCIM` : Digital Camera IMages
+* :gb: `DCIM` : Data Center Infrastructure Management
 * :gb: `DCRM` : Dynamic Client Registration Management
 * :gb: `DDD` : Domain Driven Design
 * :gb: `DDL` : Data Definition Language (ou Data Description Language)
