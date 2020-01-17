@@ -272,6 +272,7 @@
 * :gb: `SCA` : Software Composition Analysis
 * :gb: `SCA` : Static Code Analysis
 * :gb: `SCP` : Secure Copy Protocol
+* :gb: `SDN` : Software-Defined Network
 * :gb: `SEO` : Search Engine Optimization
 * :fr: `SGBD/SGBDR` : Système de Gestion de Base de Données Relationnelle
 * :gb: `SHA` : Secure Hash Algorithm
