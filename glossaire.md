@@ -37,6 +37,7 @@
 * :gb: `BFF` : Backend For Frontend
 * :gb: `BOM` : Bill Of Materials
 * :gb: `BOM` : Byte Order Mark
+* :gb: `BSD` : Berkeley Software Distribution
 * :gb: `BYOD` : Bring Your Own Device
 
 ## C
@@ -111,6 +112,7 @@
 
 * :gb: `GDK` : GIMP Drawing Kit
 * :gb: `GMT` : Greenwich Mean Time
+* :gb: `GNU` : GNU's Not UNIX
 * :gb: `GTK` : GIMP ToolKit
 * :gb: `GUI` : Graphical User Interface
 
@@ -346,6 +348,7 @@
 * :gb: `WAF` : Wepp Application Firewall
 * :gb: `WAS` : WebSphere Application Server
 * :gb: `WADL` : Web Application Description Language
+* :gb: `WINE` : Wine Is Not an Emulator
 * :gb: `WOA`: Web Oriented Architecture
 * :gb: `WPAD` : Web Proxy Autodiscovery Protocol
 * :gb: `WS-I` : Web Services Interoperability
@@ -368,6 +371,7 @@
 ## Y
 
 * :gb: `YAGNI` : You Ain't Gonna Need It
+* :gb: `YAML` : Yet Ain't Markup Language => YAML Ain't Markup Language
 
 ## Z
 
