@@ -7,4 +7,5 @@
 * [Markdown tools & reminders](md-tools.md)
 * [AsciiDoc tools & reminders](asciidoc.md)
 * [Configuration IntelliJ IDEA](intellij.md)
+* [Configuration Visual Studio Code](vscode.md)
 * [Some ASCII Arts](ascii-art.md)
