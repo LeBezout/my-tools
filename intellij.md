@@ -29,6 +29,8 @@
   * Décocher "_Autoscroll to Source_" (Empêcher l'ouverture automatique des fichiers dès la sélection)
   * Cocher "_Autoscoll from source_" (activer le suivi dans la vu explorateur)
 
+:link: [Share settings through a settings repository](https://www.jetbrains.com/help/idea/sharing-your-ide-settings.html#settings-repository)
+
 ## Config outils
 
 ### Configurer le SDK	
@@ -50,6 +52,7 @@
 * [Lombok](https://plugins.jetbrains.com/plugin/6317-lombok)
 * [AsciiDoc](https://plugins.jetbrains.com/plugin/7391-asciidoc)
 * [Bash Support](https://plugins.jetbrains.com/plugin/4230-bashsupport)
+* [Key Promotre X](https://plugins.jetbrains.com/plugin/9792-key-promoter-x/)
 
 ## Junit 5
 
