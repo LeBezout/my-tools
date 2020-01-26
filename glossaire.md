@@ -57,6 +57,8 @@
 * :gb: `CLI` : Command-Line Interpreter
 * :fr: `CNIL` : Commission Nationale sur l'Informatique et les Libertés
 * :gb: `CQRS` : Command Query Responsability Separation
+* :gb: `CRC` : Cyclic Redundancy Check
+* :fr: `CRC` : Contrôle de Redondance Cyclique
 * :gb: `CRUD` : Create Read Update Delete
 * :gb: `CSP` : Cryptographic Service Provider
 * :gb: `CSRF` : Cross-Site Request Forgery (voir XSRF)
@@ -200,6 +202,7 @@
 * :gb: `MD5` : Message Digest 5
 * :gb: `MDC` : Mapped Diagnostic Context(s)
 * :gb: `MVP` : Minimum Viable Product
+* :gb: `MTU` : Maximum Transmission Unit
 
 ## N
 
