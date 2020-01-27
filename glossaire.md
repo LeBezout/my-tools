@@ -43,6 +43,7 @@
 ## C
 
 * :gb: `CA` : Central Authentication
+* :gb: `CAPEX` : CAPital EXpenditure
 * :gb: `CAS` : Client Access Server
 * :gb: `CAS` : Code Access Security
 * :gb: `CAS` : Conditional Access System
@@ -97,6 +98,9 @@
 * :gb: `EAI` : Enterprise Application Integration
 * :gb: `EAP` : Enterprise Application Platform
 * :gb: `ECMA` : European Computer Manufacturers Association
+* :gb: `EOF` : End Of File
+* :gb: `EOL` : End Of Line
+* :gb: `EOL` : (product) End Of Life
 * :gb: `EJB` : Entreprise Java Bean
 * :gb: `EPEL` : Extra Packages for Enterprise Linux
 * :gb: `ERP` : Enterprise Ressource Planning
@@ -222,6 +226,8 @@
 * :gb: `OASIS` : Organization for the Advancement of Structured Information Standards
 * :gb: `OCP` : Open/Closed Principle
 * :gb: `OIDC` : OpenID Connect
+* :gb: `OKR` : Objectives and Key Results
+* :gb: `OPEX` : OPerational EXpenditure
 * :gb: `ORM` : Object-Relational Mapping
 * :gb: `OS` : Operating System
 * :gb: `OSS` : Open-Source Software
@@ -312,6 +318,7 @@
 ## T
 
 * :fr: `TAI` : Temps Atomique International
+* :gb: `TAR` : Tape ARchiver
 * :gb: `TCP` : Transmission Control Protocol
 * :gb: `TDD` : Tests Driven Development
 * :gb: `TFS` : Team Foundation Server
