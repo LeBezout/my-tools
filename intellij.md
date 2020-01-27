@@ -53,6 +53,7 @@
 * [AsciiDoc](https://plugins.jetbrains.com/plugin/7391-asciidoc)
 * [Bash Support](https://plugins.jetbrains.com/plugin/4230-bashsupport)
 * [Key Promotre X](https://plugins.jetbrains.com/plugin/9792-key-promoter-x/)
+* [Grazie][https://plugins.jetbrains.com/plugin/12175-grazie/)
 
 ## Junit 5
 
