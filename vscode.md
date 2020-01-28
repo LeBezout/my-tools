@@ -2,7 +2,13 @@
 
 :link: <https://code.visualstudio.com/>
 
-:link: <https://vscodecandothat.com/>
+:link: [VS Code can do that](https://vscodecandothat.com/)
+
+## Raccourcis clavier
+
+:link: [Cheeat Sheet PDF](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+
+:link: [23 lesser known VS Code Shortcuts as GIF](https://dev.to/devmount/23-lesser-known-vs-code-shortcuts-as-gif-80)
 
 ## Extensions
 
