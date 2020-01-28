@@ -6,7 +6,7 @@
 
 ## Raccourcis clavier
 
-:link: [Cheeat Sheet PDF](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+:link: [Cheat Sheet PDF](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 
 :link: [23 lesser known VS Code Shortcuts as GIF](https://dev.to/devmount/23-lesser-known-vs-code-shortcuts-as-gif-80)
 
