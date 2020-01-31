@@ -53,6 +53,7 @@
 * :gb: `CDN` : Content Delivery Network
 * :gb: `CentOS` : Community ENnterprise Operating System
 * :gb: `CI/CD` : Continuous Integration / Continuous Deployment
+* :gb: `CICS` : Customer Information Control System
 * :gb: `CIFS` : Common Internet File System
 * :gb: `CLI` : Command Line Interface
 * :gb: `CLI` : Command-Line Interpreter
@@ -86,6 +87,7 @@
 * :gb: `DOM` : Document Object Model
 * :gb: `DOR` : Definition Of Ready
 * :gb: `DOS` : Deni Of Service
+* :gb: `DOS` : (Microsoft) Disk Operating System
 * :gb: `DDOS` : Distributed Deni Of Service
 * :fr: `DSI` : Direction des Systèmes d'Information
 * :gb: `DRP` : Disaster Recory Plan
