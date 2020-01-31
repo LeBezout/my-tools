@@ -19,6 +19,7 @@
 * :fr: `AFNOR` : Association française de normalisation
 * :gb: `AI` : Artificial Intelligence
 * :gb: `AJAX` : Asynchronous JAvaScript and XML
+* :gb: `ALM` : Application Lifecycle Management
 * :gb: `ALPN` : Application-Layer Protocol Negotiation
 * :gb: `AJP` : Apache JServ Protocol
 * :gb: `AMQP` : Advanced Message Queuing Protocol
