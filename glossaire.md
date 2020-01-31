@@ -82,7 +82,9 @@
 * :gb: `DIP` : Dependency Inversion Principle
 * :gb: `DML` : Data Manipulation Language
 * :gb: `DNS` : Domain Name System
+* :gb: `DOD` : Definition Of Done
 * :gb: `DOM` : Document Object Model
+* :gb: `DOR` : Definition Of Ready
 * :gb: `DOS` : Deni Of Service
 * :gb: `DDOS` : Distributed Deni Of Service
 * :fr: `DSI` : Direction des Systèmes d'Information
