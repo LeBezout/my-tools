@@ -316,6 +316,7 @@
 * :gb: `SSO` : Single Sign-On
 * :gb: `SSR` : Server Side Rendering
 * :gb: `STS` : Security Token Service
+* :gb: `STEM` : Science, Technology, Engineering, and Mathematics
 * :gb: `STXX` : Struts for Transforming XML with XSL
 * :gb: `SVG` : Scalable Vector Graphics
 * :gb: `SWT` : Standard Widget Toolkit
@@ -382,6 +383,7 @@
 * :gb: `XSLT` : eXtensible Stylesheet Language Transformation
 * :gb: `XSS` : Cross (X) Site Scripting
 * :gb: `XSRF` : Cross (X) Site Request Forgery (voir CSRF)
+* :gb: `XXE` : XML eXternal Entity
 
 ## Y
 
