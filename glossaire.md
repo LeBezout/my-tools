@@ -210,6 +210,7 @@
 * :gb: `MAC` : Medium Access Control
 * :gb: `MD5` : Message Digest 5
 * :gb: `MDC` : Mapped Diagnostic Context(s)
+* :gb: `MFL` : Message Format Language
 * :gb: `MVP` : Minimum Viable Product
 * :gb: `MTU` : Maximum Transmission Unit
 
