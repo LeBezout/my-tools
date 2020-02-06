@@ -275,6 +275,7 @@
 * :gb: `RHEL` : Red Hat Enterprise Linux
 * :fr: `RGPD` : Règlement Général sur la Protection des Données
 * :gb: `RMI` : Remote Method Invocation
+* :gb: `ROA` : Resource Oriented Architecture
 * :gb: `RPA` : Robotic Process Automation
 * :gb: `RPC` : Remote Procedure Call
 * :fr: `RSSI` : Responsable de la Sécurité des Systèmes d'Information
