@@ -326,6 +326,7 @@
 ## T
 
 * :fr: `TAI` : Temps Atomique International
+* :gb: `TAM` : Technical Account Manager
 * :gb: `TAR` : Tape ARchiver
 * :gb: `TCP` : Transmission Control Protocol
 * :gb: `TDD` : Tests Driven Development
