@@ -150,6 +150,7 @@
 * :gb: `IPAM` : IP Address Management
 * :gb: `IOT` : Internet Of Things
 * :gb: `IT` : Information Technology
+* :gb: `ISE` : Integrated Scripting Environment (_Powershell_)
 * :gb: `ISP` : Interface Segregation Principle
 
 ## J
