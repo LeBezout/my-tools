@@ -19,7 +19,6 @@
   * Onglet _Import_ : _Class count to use import with *_ : 250 au lieu de 5 (pour empêcher l'utilisation de ce type d'import)
   * Onglet _Import_ : _Names count to use static import with *_ : 200 au lieu de 3 (pour empêcher l'utilisation de ce type d'import)
 * Editor > Inspections
-  * ~Décocher Spelling → Typo~
   * Cocher Java > _Serialization issues_ → Serializable
 * Editor > Spelling
   * Ajouter le [dictionnaire français](http://www.winedt.org/dict/fr.zip)
@@ -52,7 +51,7 @@
 * [Lombok](https://plugins.jetbrains.com/plugin/6317-lombok)
 * [AsciiDoc](https://plugins.jetbrains.com/plugin/7391-asciidoc)
 * [Bash Support](https://plugins.jetbrains.com/plugin/4230-bashsupport)
-* [Key Promotre X](https://plugins.jetbrains.com/plugin/9792-key-promoter-x/)
+* [Key Promote X](https://plugins.jetbrains.com/plugin/9792-key-promoter-x/)
 * [Grazie](https://plugins.jetbrains.com/plugin/12175-grazie/)
 
 ## Junit 5
@@ -74,6 +73,8 @@ Ajouter `junit-platform-launcher` correspondant à la version de Junit 5 utilis�
   <scope>test</scope>
 </dependency>
 ```
+
+:bulb: ou vérifier que la connexion réseau (proxy, ..) est OK pour que l'IDE puisse télécharger le nécessaire (jar, ...).
 
 ## Correspondance Eclipse
 
