@@ -86,3 +86,9 @@ Ajouter `junit-platform-launcher` correspondant à la version de Junit 5 utilis�
 | Accès à un fichier | CTRL+SHIFT+R | CTRL+SHIFT+N |
 | Organiser les imports | CTRL+SHIFT+O | CTRL+ALT+O |
 | Renommer | ALT+SHIFT+R | SHIFT+F6 |
+
+## FAQ
+
+### Running unit test: Could not find or load main class ${surefireArgLine} / Impossible de trouver la classe @{jacocoUTArgLine}
+
+Décocher _argLine_ dans File > Settings > Build, Execution, Deployment > Build Tools > Maven > Running Tests
