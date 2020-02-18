@@ -53,6 +53,10 @@
 * :pencil2: [Editeur / convertisseur de favicon](http://www.xiconeditor.com/)
 * :pencil2: [Image to Data URI converter](https://ezgif.com/image-to-datauri) - [data: URI Generator](https://dopiaza.org/tools/datauri/index.php)
 
+## Aides mémoires
+
+* [GitExplorer - Commandes Git](https://gitexplorer.com/)
+
 ## Documentation
 
 * :pencil2: Markdown live Editor [Dillinger](https://dillinger.io/) ou [StackEdit!](https://stackedit.io/app#)
