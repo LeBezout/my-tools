@@ -55,7 +55,8 @@
 
 ## Aides mémoires
 
-* [GitExplorer](https://gitexplorer.com/) | Git Command Explorer
+* [Git Explorer](https://gitexplorer.com/) | Git Command Explorer
+* [Learn Git Branching](https://learngitbranching.js.org/) | Didactitiel en ligne
 
 ## Documentation
 
