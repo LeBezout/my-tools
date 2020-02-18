@@ -55,7 +55,7 @@
 
 ## Aides mémoires
 
-* [GitExplorer - Commandes Git](https://gitexplorer.com/)
+* [GitExplorer](https://gitexplorer.com/) | Git Command Explorer
 
 ## Documentation
 
