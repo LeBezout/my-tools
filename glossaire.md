@@ -111,6 +111,7 @@
 * :gb: `EPEL` : Extra Packages for Enterprise Linux
 * :gb: `ERP` : Enterprise Ressource Planning
 * :gb: `ESB` : Enterprise Service Bus
+* :fr: `ESN` : Entreprise de Services du Numérique (voir SSII)
 * :gb: `ETL` : Extract Transform Load
 
 ## F
@@ -316,6 +317,8 @@
 * :gb: `SQL` : Structured Query Language
 * :gb: `SRE` : Site Reliability Engineer
 * :gb: `SRP` : Single Responsibility Principle
+* :fr: `SS2I` : Société de Services en Ingénierie Informatique (voir ESN)
+* :fr: `SSII` : Société de Services en Ingénierie Informatique (voir ESN)
 * :gb: `SSL` : Secure Sockets Layer
 * :gb: `SSO` : Single Sign-On
 * :gb: `SSR` : Server Side Rendering
