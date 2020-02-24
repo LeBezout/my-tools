@@ -75,6 +75,7 @@
 * :gb: `DAS` : Direct Attached Storage
 * :gb: `DCIM` : Digital Camera IMages
 * :gb: `DCIM` : Data Center Infrastructure Management
+* :gb: `DCL` : Data Control Language
 * :gb: `DCRM` : Dynamic Client Registration Management
 * :gb: `DDD` : Domain Driven Design
 * :gb: `DDL` : Data Definition Language (ou Data Description Language)
@@ -329,6 +330,7 @@
 * :fr: `TAI` : Temps Atomique International
 * :gb: `TAM` : Technical Account Manager
 * :gb: `TAR` : Tape ARchiver
+* :gb: `TCL` : Transaction Control Language
 * :gb: `TCP` : Transmission Control Protocol
 * :gb: `TDD` : Tests Driven Development
 * :gb: `TFS` : Team Foundation Server
