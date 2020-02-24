@@ -192,6 +192,7 @@
   * `JMF` : Java Media Framework
   * `JSR` : Java Specification Request
   * `JPDA` : Java Platform Debugger Architecture
+  * `JPMS` : Java Platform Module System
   * `JUG` : Java User Group
 
 ## K
