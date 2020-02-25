@@ -5,6 +5,8 @@
 
 ## A
 
+* :gb: `ACL` : Anti-Corruption Layer
+* :gb: `ACL` : Access Control List
 * :gb: `ACR` : Authentication Context Class Reference
 * :gb: `AD` : Active Directory
 * :gb: `ADAM` : Active Directory Application Mode
