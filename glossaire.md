@@ -133,6 +133,7 @@
 
 ## H
 
+* :gb: `HDFS` : Hadoop Distributed File System
 * :gb: `HTTP` : Hyper Text Transfert Protocol
 * :gb: `HATEOAS` : Hypermedia As The Engine Of Application State
 
