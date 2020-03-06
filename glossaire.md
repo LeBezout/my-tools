@@ -40,6 +40,8 @@
 * :gb: `BFF` : Backend For Frontend
 * :gb: `BOM` : Bill Of Materials
 * :gb: `BOM` : Byte Order Mark
+* :gb: `BPM` : Business Process Management
+* :gb: `BPMN` : Business Process Model and Notation
 * :gb: `BSD` : Berkeley Software Distribution
 * :gb: `BYOD` : Bring Your Own Device
 
@@ -60,6 +62,7 @@
 * :gb: `CIFS` : Common Internet File System
 * :gb: `CLI` : Command Line Interface
 * :gb: `CLI` : Command-Line Interpreter
+* :gb: `CMMN` : Case Management Model and Notation
 * :fr: `CNIL` : Commission Nationale sur l'Informatique et les Libertés
 * :gb: `CQRS` : Command Query Responsability Separation
 * :gb: `CRC` : Cyclic Redundancy Check
@@ -93,6 +96,7 @@
 * :gb: `DOS` : Deni Of Service
 * :gb: `DOS` : (Microsoft) Disk Operating System
 * :gb: `DDOS` : Distributed Deni Of Service
+* :gb: `DMN` : Decision Model and Notation
 * :fr: `DSI` : Direction des Systèmes d'Information
 * :gb: `DRP` : Disaster Recory Plan
 * :gb: `DRY` : Don't Repeat Yourself
