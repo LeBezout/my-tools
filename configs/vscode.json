@@ -11,6 +11,7 @@
     "editor.dragAndDrop": true,
     "editor.suggestSelection": "first",
     "editor.renderWhitespace": "selection",
+    "editor.emptySelectionClipboard": false,
     
     "telemetry.enableCrashReporter": false,
     "telemetry.enableTelemetry": false,
@@ -23,7 +24,8 @@
         ".gitattributes" : "git",
     },
     "[yaml]": {
-        "files.encoding": "utf8"
+        "files.encoding": "utf8",
+        "editor.defaultFormatter": "redhat.vscode-yaml"
     },
     "[ignore]": {
         "files.encoding": "utf8"
@@ -42,6 +44,15 @@
         "files.encoding": "windows1252",
         "files.eol": "\r\n"
     },
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[vue]": {
+        "editor.defaultFormatter": "octref.vetur"
+    },
     
     "cSpell.language": "en,fr",
     "editor.fontSize": 12,
@@ -57,23 +68,29 @@
         "binômage",
         "classpath",
         "cyclomatique",
+        "dynatrace",
         "enchainable",
-        "enchainables",
+        "enchainables",,
+        "grafana",
         "groupama",
         "informatica",
         "inmaintenable",
         "inmaintenables",
         "intelli",
         "jdbc",
+        "kibana",
         "ldap",
         "liquibase",
         "lombok",
+        "microservice",
+        "openshift",
         "servlet",
+        "servlets",
+        "shellcheck",
         "vagrantfile",
         "variabilisée",
         "éditique",
-        "éditiques",
-        "shellcheck"
+        "éditiques"
     ],
 
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
