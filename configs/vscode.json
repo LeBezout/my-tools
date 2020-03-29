@@ -2,8 +2,11 @@
     "window.restoreFullscreen": true,
     "window.newWindowDimensions": "maximized",
     "window.zoomLevel": 0,
+    
     "workbench.iconTheme": "material-icon-theme",
-    "workbench.startupEditor": "none",
+    "workbench.startupEditor": "none",   
+    
+    "editor.fontSize": 12,
     "editor.tabSize": 2,
     "editor.wordWrap": "off",
     "editor.minimap.enabled": true,
@@ -12,6 +15,12 @@
     "editor.suggestSelection": "first",
     "editor.renderWhitespace": "selection",
     "editor.emptySelectionClipboard": false,
+    
+    "markdown.preview.fontSize": 12,
+    
+    "terminal.integrated.fontSize": 12,
+    "terminal.integrated.copyOnSelection": true,
+    "terminal.integrated.rightClickBehavior": "paste",
     
     "telemetry.enableCrashReporter": false,
     "telemetry.enableTelemetry": false,
@@ -23,6 +32,12 @@
     "files.associations": {
         ".gitattributes" : "git",
     },
+    "files.watcherExclude": {
+        "**/.git/objects/**": true,
+        "**/.git/subtree-cache/**": true,
+        "**/node_modules/*/**": true
+    },
+    
     "[yaml]": {
         "files.encoding": "utf8",
         "editor.defaultFormatter": "redhat.vscode-yaml"
@@ -53,15 +68,6 @@
     "[vue]": {
         "editor.defaultFormatter": "octref.vetur"
     },
-    
-    "cSpell.language": "en,fr",
-    "editor.fontSize": 12,
-    
-    "markdown.preview.fontSize": 12,
-    
-    "terminal.integrated.fontSize": 12,
-    "terminal.integrated.copyOnSelection": true,
-    "terminal.integrated.rightClickBehavior": "paste",
     
     "cSpell.language": "en,fr,fr-FR",
     "cSpell.userWords": [
