@@ -1,0 +1,88 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# IDE
+.c9/
+*.launch
+### Eclipse ###
+**/.settings/
+**/.classpath
+**/.factorypath
+**/.project
+**/.apt_generated
+# Spring tool suite
+.springBeans
+### IntelliJ IDEA ###
+**/.idea/
+**/*.iml
+**/*.iws
+**/*.ipr
+!**/.idea/dictionaries
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+### Autres IDE ###
+**/*.sublime-project
+**/*.sublime-workspace
+### VSCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# VAGRANT
+**/.vagrant/
+**/*.box
+
+# TOOLS
+**/node_modules/
+**/.sass-cache/
+**/coverage/
+**/dist/
+**/node_modules/
+**/.sonarlint
+**/.scannerwork/
+
+# MAVEN
+**/target/
+
+# Angular & more
+**/yarn-error.log
+/e2e/*.js
+/e2e/*.map
+/.sass-cache
+/connect.lock
+/coverage
+/libpeerconnection.log
+**/npm-debug.log
+**/testem.log
+/typings
+/dist-server
+/out-tsc
+
+# OTHER FILES
+**/Thumbs.db
+**/~*
+**/*~
+**/*.log
+**/*.tmp
+**/*.tmp.*
+**/*.bak
+**/*.old
+**/asciidoc-temp*
+
+# OTHER FOLDERS
+**/.tmp/
+**/tmp/
+**/temp/
+**/bin/
+**/classes/
+**/.DS_Store
+**/.Trash-*
+
+# EXCEPTIONS
+!.s2i/bin
