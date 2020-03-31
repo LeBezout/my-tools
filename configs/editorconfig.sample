@@ -1,0 +1,37 @@
+# EditorConfig is awesome: http://EditorConfig.org
+# Fichier de reference maintenu par "G2S open | core" consultable dans https://git.ra1.intra.groupama.fr/SOLTEC/git-init-tool
+
+# top-most EditorConfig file
+root = true
+
+# for every file
+[*]
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+indent_style = space
+indent_size = 4
+charset = utf-8
+# Extended properties (https://github.com/editorconfig/editorconfig/wiki/EditorConfig-Properties)
+spaces_around_operators = true
+# Specific IntelliJ
+ij_visual_guides = 160
+
+# Windows files (sinon conflit avec .gitattributes)
+[*.{cmd,bat,url,asp}]
+indent_style = tab
+end_of_line = crlf
+charset = latin1
+# MS Visual Studio
+[*.{sln,csproj,vbproj,vcxproj,vcproj,dbproj,fsproj,lsproj,wixproj,modelproj,sqlproj,wmaproj,xproj,props,filters,vcxitems}]
+end_of_line = crlf
+charset = latin1
+
+# Cas des fichiers yaml
+[*.{yml,yaml}]
+indent_size = 2
+
+# Les fichiers properties sont en ISO LATIN
+[*.properties]
+charset = latin1
+trim_trailing_whitespace = false
