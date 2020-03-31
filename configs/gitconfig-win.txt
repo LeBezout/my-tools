@@ -9,6 +9,8 @@
 	sslVerify = false
 [push]
 	default = simple
+[fetch]
+	prune = true
 [alias]
 	log10 = log --oneline -n 10
 	co = checkout
