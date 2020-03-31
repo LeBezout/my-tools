@@ -1,0 +1,216 @@
+# Set the default behavior, in case people don't have core.autocrlf set
+# @see https://github.com/alexkaratarakis/gitattributes
+# @see https://git-scm.com/docs/gitattributes
+# GitLab : The .gitattributes file must be encoded in UTF-8 and must not contain a Byte Order Mark. If a different encoding is used, the file’s contents will be ignored.
+
+# Force line ending normalization
+* text=auto
+
+# Fichiers spécifiques
+# .sample n'est pas un type connu
+config.yaml.sample text eol=lf
+user-config.sample text eol=lf
+project-config.sample text eol=lf
+
+# Explicitly declare text files you want to always be normalized and converted to native line endings on checkout.
+.gitignore      text eol=lf
+.gitattributes  text eol=lf
+.htaccess       text
+*.txt           text
+*.sql           text
+*.df            text
+*.js            text
+*.ts            text
+*.json          text
+*.jsp           text
+*.jspf          text
+*.properties    text
+*.tld           text
+*.xml           text
+*.xjb           text
+*.bxml          text
+*.xsd           text
+*.xsl           text
+*.dtd           text
+*.wsdl          text
+*.yml           text
+*.yaml          text
+*.md            text
+*.adoc          text
+*.ldif          text
+*.jnlp          text
+*.ini           text
+*.csv           text
+*.tsv           text
+*.tab           text
+*.ftl           text
+*.gph           text
+*.groovy        text
+*.mustache      text
+*.template      text
+MANIFEST.MF     text
+CHANGELOG       text
+LICENSE         text
+.editorconfig   text
+.babelrc        text
+.bowerrc        text
+.bootstraprc    text
+.eslintignore   text
+.csslintrc      text
+.htmlhintrc     text
+.jshintrc       text
+.jshintignore   text
+lombok.config   text
+*.varfile       text
+*.svg           text
+proxy*.pac      text
+
+# spring
+spring.factories text
+# Spring tool suite (mais on evite en general de les remonter)
+.springBeans     text
+
+# Eclipse (mais on evite en general de les remonter)
+.project        text
+.classpath      text
+.factorypath    text
+*.epf           text
+.jsdtscope      text
+
+# Cobol
+.cobolProj      text
+.cobolBuild     text
+*.cbl           text
+*.cob           text
+
+# Languages specifics
+*.java  diff=java
+*.rb    diff=ruby
+*.cs    diff=csharp
+*.htm   diff=html
+*.html  diff=html
+*.py    diff=python
+*.pl    diff=perl
+*.css   diff=css
+*.scss  diff=css
+*.php   diff=php
+*.tex   diff=tex
+
+# Declare files that will always have CRLF line endings on checkout.
+*.[cC][mM][dD]text eol=crlf
+*.[bB][aA][tT] text eol=crlf
+*.[uU][rR][lL] text eol=crlf
+*.[aA][sS][pP] text eol=crlf
+*.[wW][sS][eE] text eol=crlf
+*.[pP][sS]1 text eol=crlf
+# Visual Basic
+*.vb text eol=crlf
+*.bas text eol=crlf
+*.cls text eol=crlf
+*.vbp text eol=crlf
+*.frm text eol=crlf
+*.frx binary
+
+# Declare files that will always have LF line endings on checkout (les shells ne doivent JAMAIS être altérés).
+*.sh   text eol=lf
+*.ksh  text eol=lf
+*.bash text eol=lf
+*.csh  text eol=lf
+
+# Docker, Vagrant, & more
+Dockerfile text eol=lf
+docker-compose.yml text eol=lf
+Vagrantfile text eol=lf
+Jenkinsfile text eol=lf
+Gemfile text eol=lf
+Gemfile.lock text eol=lf
+Rakefile text eol=lf
+Brewfile text eol=lf
+
+# Do not try and merge these files
+yarn.lock binary
+package-lock.json binary
+composer.lock -diff
+# Denote all files that are truly binary and should not be modified. (binary is a macro for -text -diff)
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.tif binary
+*.tiff binary
+*.ico binary
+*.bmp binary
+*.mov binary
+*.mp4 binary
+*.mp3 binary
+*.flv binary
+*.fla binary
+*.swf binary
+*.ttf binary
+*.otf binary
+*.woff binary
+*.woff2 binary
+*.eot binary
+*.pdf binary
+*.icm binary
+*.gnt binary
+*.eps binary
+*.lbc binary
+
+# MS Visual Studio
+*.sln        text eol=crlf
+*.csproj     text eol=crlf
+*.vbproj     text eol=crlf
+*.vcxproj    text eol=crlf
+*.vcxproj.user    text eol=crlf
+*.vcxproj.vspscc  text eol=crlf
+*.vcproj     text eol=crlf
+*.dbproj     text eol=crlf
+*.fsproj     text eol=crlf
+*.lsproj     text eol=crlf
+*.wixproj    text eol=crlf
+*.modelproj  text eol=crlf
+*.sqlproj    text eol=crlf
+*.wmaproj    text eol=crlf
+*.xproj      text eol=crlf
+*.props      text eol=crlf
+*.filters    text eol=crlf
+*.vcxitems   text eol=crlf
+
+# MS Office files
+*.rtf diff=astextplain
+*.doc binary
+*.docx binary
+*.xls binary
+*.xlsx binary
+*.ppt binary
+*.pptx binary
+
+# Fichiers hahtsite (!)
+*.hpf text eol=crlf
+
+# JBuilder
+*.jpx text eol=crlf
+*.library text eol=crlf
+
+# source to image / s2i
+.s2iignore text eol=lf
+.s2i/bin/assemble text eol=lf
+
+# draw.io
+*.drawio binary
+
+# normalement on ne remonte pas ces fichiers binaires :
+*.class binary
+*.jar   binary
+*.war   binary
+*.ear   binary
+*.so    binary
+*.dll   binary
+*.exe   binary
+*.gz    binary
+*.gz2   binary
+*.zip   binary
+*.7z    binary
+*.tar   binary
+*.gem   binary
