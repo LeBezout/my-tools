@@ -207,27 +207,30 @@ fi
 
 ### Conditions sur fichiers et dossiers
 
-| Condition | Signification |
-|-----------|---------------|
-| `-e $nomfichier` | Vérifie si le fichier existe. |
-| `-a $nomfichier` | Vérifie si le fichier existe (**obsolète**). |
-| `-b $nomfichier` | Vérifie si le fichier _périphérique de type bloc_ existe. |
-| `-c $nomfichier` | Vérifie si le fichier _périphérique de type caractères_ existe. |
-| `-p $nomfichier` | Vérifie si le fichier _tube_ existe. |
-| `-f $nomfichier` | Vérifie si le fichier est un fichier. Un vrai fichier cette fois, pas un dossier. |
-| `-d $nomfichier` | Vérifie si le fichier est un répertoire. N'oubliez pas que sous Linux, tout est considéré comme un fichier, même un répertoire ! |
-| `-r $nomfichier` | Vérifie si le fichier est lisible (r). |
-| `-w $nomfichier` | Vérifie si le fichier est modifiable (w). |
-| `-x $nomfichier` | Vérifie si le fichier est exécutable (x). |
-| `-g $nomfichier` | Vérifie si le groupe est positionné sur le fichier. |
-| `-L $nomfichier` | Vérifie si le fichier est un lien symbolique (raccourci). |
-| `-h $nomfichier` | Vérifie si le fichier est un lien symbolique (raccourci). |
-| `-s $nomfichier` | Vérifie si le fichier est n'est pas vide (taille > 0). |
-| `-S $nomfichier` | Vérifie si le fichier est n'est pas vide (taille > 0). |
-| `-O $nomfichier` | Vérifie si le fichier existe et est un socket. |
-| `$fichier1 -nt $fichier2` | Vérifie si `fichier1` est plus récent que `fichier2` (**n**ewer**t**han). |
-| `$fichier1 -ot $fichier2` | Vérifie si `fichier1` est plus vieux que `fichier2` (**o**lder**t**han). |
-| `$fichier1 -ef $fichier2` | Vérifie si `fichier1` et `fichier2` référencent le même "device". |
+| Condition | Mnémonique | Signification |
+|-----------|------------|---------------|
+| `-e $nomfichier` | exists | Vérifie si le fichier existe. |
+| `-a $nomfichier` | available | Vérifie si le fichier existe (**obsolète**). |
+| `-b $nomfichier` | bloc | Vérifie si le fichier _périphérique de type bloc_ existe. |
+| `-c $nomfichier` | char | Vérifie si le fichier _périphérique de type caractères_ existe. |
+| `-p $nomfichier` | pipe | Vérifie si le fichier _tube_ existe. |
+| `-f $nomfichier` | file | Vérifie si le fichier est un fichier. Un vrai fichier cette fois, pas un dossier. |
+| `-d $nomfichier` | directory | Vérifie si le fichier est un répertoire. N'oubliez pas que sous Linux, tout est considéré comme un fichier, même un répertoire ! |
+| `-r $nomfichier` | readable | Vérifie si le fichier est lisible (r). |
+| `-w $nomfichier` | writable | Vérifie si le fichier est modifiable (w). |
+| `-x $nomfichier` | executable | Vérifie si le fichier est exécutable (x). |
+| `-u $nomfichier` | user | Vérifie si l'utilisateur dispose de la permission set-user-id (suid) sur ce fichier. |
+| `-g $nomfichier` | group | Vérifie si le groupe est positionné sur le fichier. |
+| `-k $nomfichier` | sti**K**y | Vérifie si le stiky-bit est positionné sur le fichier. |
+| `-L $nomfichier` | Link | Vérifie si le fichier est un lien symbolique (raccourci). |
+| `-h $nomfichier` | ? | Vérifie si le fichier est un lien symbolique (raccourci). |
+| `-s $nomfichier` | size | Vérifie si le fichier n'est pas vide (taille > 0). |
+| `-S $nomfichier` | Socket | Vérifie si le fichier existe et est un socket. |
+| `-O $nomfichier` | Owner |  Vérifie si le fichier existe et si on est le propriétaire. |
+| `-N $nomfichier` | ? | Vérifie si le fichier a été modifié depuis sa dernière lecture. |
+| `$fichier1 -nt $fichier2` | **n**ewer**t**han | Vérifie si `fichier1` est plus récent que `fichier2`. |
+| `$fichier1 -ot $fichier2` | **o**lder**t**han | Vérifie si `fichier1` est plus vieux que `fichier2`. |
+| `$fichier1 -ef $fichier2` | ? | Vérifie si `fichier1` et `fichier2` sont des liens physiques pointant vers le même fichier. |
 
 :bulb: <https://abs.traduc.org/abs-fr/ch07s02.html>
 
