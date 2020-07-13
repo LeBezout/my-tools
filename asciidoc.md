@@ -41,7 +41,7 @@
 ## Formatting
 
 * `*bold*`
-* `_italics_`
+* `_italics_` : `_camelCase_ ou __snake_case__`
 * `^supertext^` (without space)
 * `~subtext~` (without space)
 * `#overline text#`
