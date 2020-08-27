@@ -127,8 +127,7 @@ case $INPUT in
   GOI)  ;;
   LBR)  ;;
   GLBR) INPUT="LBR" ;;
-  PVL)  ;;
-  GPVL) INPUT_="PVL" ;;
+  PVL | GPVL) INPUT_="PVL" ;;
   ALL) echo "Valeur ALL non prise en charge actuellement"; exit 2;;
   *) echo "Code invalide"; exit 2;
 esac
