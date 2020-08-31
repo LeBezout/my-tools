@@ -20,6 +20,7 @@
 * :clipboard: [Unicode Full Emoji List](http://unicode.org/emoji/charts/full-emoji-list.html) :warning: _long à charger_
 * :clipboard: [Bootstrap Glyphicon Components](https://www.w3schools.com/bootstrap/bootstrap_ref_comp_glyphs.asp)
 * :clipboard: [GitMoji](https://gitmoji.carloscuesta.me/) | An emoji guide for your commit messages
+* :clipboard: [Heroicons](https://heroicons.com/) | Beautiful hand-crafted SVG icons
 
 ## Shell
 
