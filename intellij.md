@@ -18,10 +18,12 @@
 * Editor > Code Style > Java
   * Onglet _Import_ : _Class count to use import with *_ : 250 au lieu de 5 (pour empêcher l'utilisation de ce type d'import)
   * Onglet _Import_ : _Names count to use static import with *_ : 200 au lieu de 3 (pour empêcher l'utilisation de ce type d'import)
+  * Onglet _Wrapping and Braces_ section _Keep when reformatting_ : décocher _uncheck Line breaks_
 * Editor > Inspections
   * Cocher Java > _Serialization issues_ → Serializable
 * Editor > Spelling
   * Ajouter le [dictionnaire français](http://www.winedt.org/dict/fr.zip)
+  * Meilleure alternative : utiliser le plugin [Grazie](https://plugins.jetbrains.com/plugin/12175-grazie/)
 * Build, Execution, Deployment > Compiler > Annotation Processors
   * Cocher _Enable annotation processing_ (pour Lombok par exemple)
 * Roue crantée de la vue _project_
