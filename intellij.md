@@ -55,6 +55,7 @@
 * [Bash Support](https://plugins.jetbrains.com/plugin/4230-bashsupport)
 * [Key Promote X](https://plugins.jetbrains.com/plugin/9792-key-promoter-x/)
 * [Grazie](https://plugins.jetbrains.com/plugin/12175-grazie/)
+* [GitToolBox](https://plugins.jetbrains.com/plugin/7499-gittoolbox)
 
 ## Junit 5
 
