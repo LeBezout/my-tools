@@ -33,3 +33,4 @@
   * [Angular Essentials](https://marketplace.visualstudio.com/items?itemName=johnpapa.angular-essentials)
   * [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock) (inclus dans Angular Essentials)
   * [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) (inclus dans Angular Essentials)
+  * [Hex Editor](https://marketplace.visualstudio.com/items?itemName=ms-vscode.hexeditor)
