@@ -9,6 +9,12 @@
 * :wrench: [URL Encode](http://url-encode.online-domain-tools.com/) | Online Encoders and Decoders
 * :wrench: [HTTPie](https://httpie.org/run) | A command line HTTP client
 
+## SSL
+
+* :white_check_mark: [Qualys SSL Labs](https://www.ssllabs.com/ssltest/index.html)
+* :white_check_mark: [Security Headers](https://securityheaders.com/?q=github.com&followRedirects=on)
+* :white_check_mark: [CryptCheck](https://tls.imirhil.fr/https/github.com)
+
 ## Caractères et icônes
 
 * :information_source: [Table ASCII](https://fr.wikipedia.org/wiki/American_Standard_Code_for_Information_Interchange#Description)
@@ -28,12 +34,6 @@
 * :white_check_mark: [Shell Check](https://www.shellcheck.net/) | Accès au détail d'une règle :  `https://github.com/koalaman/shellcheck/wiki/SCxxxx`
 * :information_source: [Cheat](https://cheat.sh/)
 * :information_source: [ExplainShell](https://explainshell.com/)
-
-## SSL
-
-* :white_check_mark: [Qualys SSL Labs](https://www.ssllabs.com/ssltest/index.html)
-* :white_check_mark: [Security Headers](https://securityheaders.com/?q=github.com&followRedirects=on)
-* :white_check_mark: [CryptCheck](https://tls.imirhil.fr/https/github.com)
 
 ## RegExp
 
@@ -66,10 +66,14 @@
 * :pencil2: [AsciiDoc Live](https://asciidoclive.com/edit/scratch/1)
 * :information_source: [AsciiDoc Special Characters and Symbols](https://docs.antora.org/antora/1.0/asciidoc/special-characters-and-symbols/)
 * :bulb: [Markdown DocToc](https://github.com/thlorenz/doctoc)
-* :pencil2: [Mermaid Live Editor](https://mermaidjs.github.io/mermaid-live-editor/) | Online FlowChart & Diagrams Editor
-* :pencil2: [Draw.io / Diagrams](https://www.draw.io/)
 * :wrench: [S>G : ScreenToGif](https://www.screentogif.com/?l=fr_fr) :warning: _not inline_
-* :pencil2: [PlantUML - Diagrammes UML](http://plantuml.com/fr/)
+
+## Diagrammes
+
+* :pencil: [Mermaid Live Editor](https://mermaidjs.github.io/mermaid-live-editor/) | _Online FlowChart & Diagrams Editor_
+* :pencil: [Diagrams.net](https://app.diagrams.net/) (ex-Draw.io) | _diagrams.net is open source, online, desktop and container deployable diagramming software_
+* :pencil: [Gleek.io](https://app.gleek.io/diagrams/) | _Create informal, UML object, class, or entity-relationship diagrams – using just the keyboard_
+* :pencil: [PlantUML - Diagrammes UML et autres](https://plantuml.com/fr/)
 
 ## Maven
 
@@ -77,7 +81,7 @@
 
 ## Java
 
-* :information_source: [Java API Evolution](https://github.com/marchof/java-almanac/tree/master/doc)
+* :information_source: [Java API Evolution](https://github.com/marchof/java-almanac/)
 
 ## Générateurs
 
