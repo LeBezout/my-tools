@@ -28,6 +28,7 @@
 * :clipboard: [GitMoji](https://gitmoji.carloscuesta.me/) | An emoji guide for your commit messages
 * :clipboard: [Heroicons](https://heroicons.com/) | Beautiful hand-crafted SVG icons
 * :clipboard: [unicode.scarfboy](http://unicode.scarfboy.com/) | Unicode codepoint lookup/search tool
+* :clipboard: [Shields.io](https://shields.io/) | Exemple génération de badges SVG : ![badge](https://img.shields.io/badge/Test%20BLE-OK-brightgreen) :  `https://img.shields.io/badge/<texcte left>-<text right>-<color>`
 
 ## Shell
 
