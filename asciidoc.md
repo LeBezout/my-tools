@@ -66,6 +66,12 @@ image:icons/play.png[Play, title="Play"]
 
 :information_source: To force the start of a new list, offset the two lists by an empty line comment.
 
+## Inclusions
+
+```adoc
+include::inc/sub_file.adoc[]
+```
+
 ## Blocks
 
 ### Notes, Tips, ...
