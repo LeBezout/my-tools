@@ -55,6 +55,8 @@
 * :pencil2: [FontAwesome to PNG](http://fa2png.io/r/font-awesome/)
 * :pencil2: [Editeur / convertisseur de favicon](http://www.xiconeditor.com/)
 * :pencil2: [Image to Data URI converter](https://ezgif.com/image-to-datauri) - [data: URI Generator](https://dopiaza.org/tools/datauri/index.php)
+* :wrench: [Base 64 Decoder](https://www.base64decode.org/)
+* :wrench: [Base 64 Encoder](https://www.base64encode.org/)
 
 ## Aides mémoires
 
@@ -75,6 +77,8 @@
 * :pencil: [Diagrams.net](https://app.diagrams.net/) (ex-Draw.io) | _diagrams.net is open source, online, desktop and container deployable diagramming software_
 * :pencil: [Gleek.io](https://app.gleek.io/diagrams/) | _Create informal, UML object, class, or entity-relationship diagrams – using just the keyboard_
 * :pencil: [PlantUML - Diagrammes UML et autres](https://plantuml.com/fr/)
+* :pencil: [Diagram as Code](https://diagrams.mingrammer.com/)
+* :pencil: [Git Graph.js](https://gitgraphjs.com/#0) | _A JavaScript library to draw pretty git graphs_
 
 ## Maven
 
