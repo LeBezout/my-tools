@@ -90,7 +90,10 @@
 
 ## Générateurs
 
+* :wrench: [Start an HTML5 project](http://www.initializr.com/)
 * :wrench: [Spring Initializr](https://start.spring.io/)
+* :wrench: [Quarkus Bootstrap](https://code.quarkus.io/)
+* :wrench: [Micronaut Launch](https://micronaut.io/launch/)
 * :wrench: [.gitignore Generator](https://www.gitignore.io/)
 * :wrench: [.gitattributes Generator](https://gitattributes.io/)
 * :wrench: [Générateur de Mot De Passe](https://www.motdepasse.xyz/)
