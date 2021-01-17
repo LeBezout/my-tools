@@ -10,6 +10,8 @@
   * Cocher Auto-detect proxy settings
 * Editor > General
   * _Other_ : Cocher "_Show quick documentation on mouse move_"
+* Editor > General > Auto Imports
+  * Cocher Java > _Optimize imports on the fly_
 * Editor > General > Editor Tabs
   * _Mark modified tabs with asterik_
   * _Tab Limit_ 20 au lieu de 10
