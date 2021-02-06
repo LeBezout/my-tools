@@ -25,7 +25,7 @@
 * :clipboard: [Emoji cheat sheet for GitHub](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
 * :clipboard: [Unicode Full Emoji List](http://unicode.org/emoji/charts/full-emoji-list.html) :warning: _long à charger_
 * :clipboard: [Bootstrap Glyphicon Components](https://www.w3schools.com/bootstrap/bootstrap_ref_comp_glyphs.asp)
-* :clipboard: [GitMoji](https://gitmoji.carloscuesta.me/) | An emoji guide for your commit messages
+* :clipboard: [gitmoji](https://gitmoji.dev/) | An emoji guide for your commit messages
 * :clipboard: [Heroicons](https://heroicons.com/) | Beautiful hand-crafted SVG icons
 * :clipboard: [unicode.scarfboy](http://unicode.scarfboy.com/) | Unicode codepoint lookup/search tool
 * :clipboard: [Shields.io](https://shields.io/) | Exemple génération de badges SVG : ![badge](https://img.shields.io/badge/Test%20BLE-OK-brightgreen) :  `https://img.shields.io/badge/<text left>-<text right>-<bg-color>`
@@ -35,7 +35,7 @@
 * :white_check_mark: [Shell Check](https://www.shellcheck.net/) | Accès au détail d'une règle :  `https://github.com/koalaman/shellcheck/wiki/SCxxxx`
 * :information_source: [Cheat](https://cheat.sh/)
 * :information_source: [ExplainShell](https://explainshell.com/)
-* Query Command-Line Tools :
+* :computer: Query Command-Line Tools :
   * [jq](https://github.com/stedolan/jq) for JSon
   * [xq](https://github.com/jeffbr13/xq) for XML
   * [yq](https://github.com/mikefarah/yq) for Yaml
@@ -103,6 +103,7 @@
 * :wrench: [.gitattributes Generator](https://gitattributes.io/)
 * :wrench: [Générateur de Mot De Passe](https://www.motdepasse.xyz/)
 * :wrench: [Word Cloud Generator](https://www.jasondavies.com/wordcloud/)
+* :wrench: [Book Cover Generator][https://diybookcovers.com/3Dmockups/#)
 
 ## Cron
 
