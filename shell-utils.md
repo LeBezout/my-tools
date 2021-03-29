@@ -253,13 +253,13 @@ fi
 ### Codes retour
 
 ```shell
-if [[ $? -ne 0 ]]; then
+if [ $? -ne 0 ]; then
   echo "différent de 0"
 fi
 ```
 
 ```shell
-if [[ $? -eq 0 ]]; then
+if [ $? -eq 0 ]; then
   echo "égal à 0"
 fi
 ```
@@ -269,11 +269,11 @@ fi
 Egalité :
 
 ```shell
-if [[ ${count} = 0 ]]; then
+if [ ${count} = 0 ]; then
   echo "count vaut zero"
 fi
 
-if [[ ${var1} -eq ${var2} ]]; then
+if [ ${var1} -eq ${var2} ]; then
   echo "var1 == var2"
 fi
 ```
@@ -281,7 +281,7 @@ fi
 Différence :
 
 ```shell
-if [[ ${var1} -ne ${var2} ]]; then
+if [ ${var1} -ne ${var2} ]; then
   echo "var1 != var2"
 fi
 ```
@@ -289,11 +289,11 @@ fi
 Inférieur :
 
 ```shell
-if [[ ${var1} -lt ${var2} ]]; then
+if [ ${var1} -lt ${var2} ]; then
   echo "var1 < var2"
 fi
 
-if [[ ${var1} -le ${var2} ]]; then
+if [ ${var1} -le ${var2} ]; then
   echo "var1 <= var2"
 fi
 ```
@@ -301,10 +301,10 @@ fi
 Supérieur :
 
 ```shell
-if [[ ${var1} -gt ${var2} ]]; then
+if [ ${var1} -gt ${var2} ]; then
   echo "var1 > var2"
 fi
-if [[ ${var1} -ge ${var2} ]]; then
+if [ ${var1} -ge ${var2} ]; then
   echo "var1 >= var2"
 fi
 ```
@@ -312,19 +312,19 @@ fi
 ### Chaînes
 
 ```shell
-if [[ -z $variable ]]; then
+if [ -z $variable ]; then
   echo "Variable vide"
 fi
 ```
 
 ```shell
-if [[ -n $variable ]]; then
+if [ -n $variable ]; then
   echo "Variable non vide"
 fi
 ```
 
 ```shell
-if [[ $variable = "valeur" ]]; then
+if [ $variable = "valeur" ]; then
   echo "Variable vaut valeur"
 fi
 # mais aussi avec ==
@@ -334,8 +334,14 @@ fi
 ```
 
 ```shell
-if [[ $variable != "valeur" ]]; then
+if [ $variable != "valeur" ]; then
   echo "Variable différent valeur"
+fi
+```
+
+```shell
+if [ ${#variable} != 2 ]; then
+  echo "Variable n'est pas de longeuur 2"
 fi
 ```
 
