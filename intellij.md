@@ -21,6 +21,8 @@
   * Onglet _Import_ : _Class count to use import with *_ : 250 au lieu de 5 (pour empêcher l'utilisation de ce type d'import)
   * Onglet _Import_ : _Names count to use static import with *_ : 200 au lieu de 3 (pour empêcher l'utilisation de ce type d'import)
   * Onglet _Wrapping and Braces_ section _Keep when reformatting_ : décocher _uncheck Line breaks_
+* Editor > File Encodings
+  * _Properties Files_ : sélectionner _ISO-8859-1_
 * Editor > Inspections
   * Cocher Java > _Serialization issues_ → Serializable
 * Editor > Spelling
