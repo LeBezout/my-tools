@@ -57,11 +57,12 @@
 * :pencil2: [Conversion en PDF](https://www.conv2pdf.com/)
 * :pencil2: [Base64 Image Encoder](https://www.base64-image.de/)
 * :pencil2: [Build Your Ajax Loading Icons](https://loading.io/)
-* :pencil2: [FontAwesome to PNG](http://fa2png.io/r/font-awesome/)
+* :pencil2: [FontAwesome to PNG](https://fa2png.app/)
 * :pencil2: [Editeur / convertisseur de favicon](http://www.xiconeditor.com/)
 * :pencil2: [Image to Data URI converter](https://ezgif.com/image-to-datauri) - [data: URI Generator](https://dopiaza.org/tools/datauri/index.php)
 * :wrench: [Base 64 Decoder](https://www.base64decode.org/)
 * :wrench: [Base 64 Encoder](https://www.base64encode.org/)
+* :wrench: [Native to Ascii](https://native2ascii.net/)
 
 ## Aides mémoires
 
