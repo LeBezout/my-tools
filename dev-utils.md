@@ -50,6 +50,7 @@
 
 * :pencil2: [Codes couleurs - color-hex.com/](https://www.color-hex.com/color/fe7d37)
 * :pencil2: [Codes couleurs - rgb.to/](https://rgb.to/)
+* :white_check_mark: [Validation CSS](https://jigsaw.w3.org/css-validator/)
 
 ## Convertisseurs
 
