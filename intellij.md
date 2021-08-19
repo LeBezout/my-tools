@@ -26,7 +26,7 @@
 * Editor > Inspections
   * Cocher Java > _Serialization issues_ → Serializable
 * Editor > Spelling
-  * Ajouter le [dictionnaire français](http://www.winedt.org/dict/fr.zip)
+  * ~~Ajouter le [dictionnaire français](http://www.winedt.org/dict/fr.zip)~~
   * Meilleure alternative : utiliser le plugin [Grazie](https://plugins.jetbrains.com/plugin/12175-grazie/)
 * Build, Execution, Deployment > Compiler > Annotation Processors
   * Cocher _Enable annotation processing_ (pour Lombok par exemple)
@@ -54,16 +54,17 @@
 * [Maven Helper Plugin](https://plugins.jetbrains.com/plugin/7179-maven-helper)
 * [Snyk Vulnerabilities Scanning](https://plugins.jetbrains.com/plugin/10972-snyk-vulnerability-scanning)
 * [SonarLint](https://plugins.jetbrains.com/plugin/7973-sonarlint)
-* [Lombok](https://plugins.jetbrains.com/plugin/6317-lombok)
+* ~~[Lombok](https://plugins.jetbrains.com/plugin/6317-lombok)~~ inclu  désormais
 * [AsciiDoc](https://plugins.jetbrains.com/plugin/7391-asciidoc)
-* [Bash Support](https://plugins.jetbrains.com/plugin/4230-bashsupport)
+* ~~[Bash Support](https://plugins.jetbrains.com/plugin/4230-bashsupport)~~
 * [Key Promote X](https://plugins.jetbrains.com/plugin/9792-key-promoter-x/)
-* [Grazie](https://plugins.jetbrains.com/plugin/12175-grazie/)
+* ~~[Grazie](https://plugins.jetbrains.com/plugin/12175-grazie/)~~ inclu désormais
 * [GitToolBox](https://plugins.jetbrains.com/plugin/7499-gittoolbox)
+* [Rainbow Brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets)
 
 ## Junit 5
 
-Ajouter `junit-platform-launcher` correspondant à la version de Junit 5 utilisée :
+Ajouter `junit-platform-launcher` correspondant à la version de JUnit 5 utilisée :
 
 ```xml
 <!-- Junit5 -->
@@ -99,3 +100,9 @@ Ajouter `junit-platform-launcher` correspondant à la version de Junit 5 utilis�
 ### Running unit test: Could not find or load main class ${surefireArgLine} / Impossible de trouver la classe @{jacocoUTArgLine}
 
 Décocher _argLine_ dans File > Settings > Build, Execution, Deployment > Build Tools > Maven > Running Tests
+
+### Maven+Download Source: Caused by: java.rmi.ConnectException: Connection refused to host: 127.0.0.1;
+
+Fixed 2021.1
+
+Sinon _Build Tools > Maven > Importing > JDK for Importer_ => sélectionner le même que le projet
