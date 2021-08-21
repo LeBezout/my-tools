@@ -61,6 +61,7 @@
 * ~~[Grazie](https://plugins.jetbrains.com/plugin/12175-grazie/)~~ inclu désormais
 * [GitToolBox](https://plugins.jetbrains.com/plugin/7499-gittoolbox)
 * [Rainbow Brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets)
+* [JPA Buddy](https://plugins.jetbrains.com/plugin/15075-jpa-buddy)
 
 ## Junit 5
 
