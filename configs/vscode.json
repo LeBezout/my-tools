@@ -15,6 +15,7 @@
     "editor.suggestSelection": "first",
     "editor.renderWhitespace": "selection",
     "editor.emptySelectionClipboard": false,
+    "editor.guides.bracketPairs": true,
     
     "markdown.preview.fontSize": 12,
     
