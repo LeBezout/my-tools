@@ -16,6 +16,7 @@
     "editor.renderWhitespace": "selection",
     "editor.emptySelectionClipboard": false,
     "editor.guides.bracketPairs": true,
+    "editor.guides.indentation": true,
     
     "markdown.preview.fontSize": 12,
     
@@ -23,8 +24,7 @@
     "terminal.integrated.copyOnSelection": true,
     "terminal.integrated.rightClickBehavior": "paste",
     
-    "telemetry.enableCrashReporter": false,
-    "telemetry.enableTelemetry": false,
+    "telemetry.telemetryLevel": "off",
     "vscode-mysql.enableTelemetry": false,
     
     "files.autoSave": "onWindowChange",
