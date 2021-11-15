@@ -24,6 +24,7 @@
   * [Markdown Emoji](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-emoji)
   * [Markdown Preview Github Styling](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles)
   * [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf)
+  * [VSCode PDF: Display pdf file in VSCode](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf)
 * Spelling :
   * [French Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-fr)
   * [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
