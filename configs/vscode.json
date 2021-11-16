@@ -17,6 +17,11 @@
     "editor.emptySelectionClipboard": false,
     "editor.guides.bracketPairs": true,
     "editor.guides.indentation": true,
+    "editor.guides.highlightActiveIndentation": true,
+    
+    "diffEditor.ignoreTrimWhitespace": false,
+
+    "explorer.copyRelativePathSeparator": "/",
     
     "markdown.preview.fontSize": 12,
     
@@ -26,6 +31,7 @@
     
     "telemetry.telemetryLevel": "off",
     "vscode-mysql.enableTelemetry": false,
+    "redhat.telemetry.enabled": false,
     
     "files.autoSave": "onWindowChange",
     "files.maxMemoryForLargeFilesMB": 2056,
@@ -68,6 +74,9 @@
     },
     "[vue]": {
         "editor.defaultFormatter": "octref.vetur"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
     
     "cSpell.language": "en,fr,fr-FR",
