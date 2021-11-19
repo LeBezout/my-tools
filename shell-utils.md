@@ -110,7 +110,10 @@ LIQUIBASE_COMMAND=${1:=status}
 
 ### Parameter Expansion
 
-:link: <https://www.gnu.org/software/bash/manual/html_node/Shell-Parameter-Expansion.html>
+:link: [Shell Parameter Expansion](https://www.gnu.org/software/bash/manual/html_node/Shell-Parameter-Expansion.html)
+
+* Majuscules `${var^^}`
+* Minuscules `${var,,}`
 
 ### Filename Expansion
 
@@ -128,8 +131,6 @@ tar.gz
 ~% echo "${FILE##*.}"
 gz
 ```
-
-:link: [Shell Parameter Expansion](https://www.gnu.org/software/bash/manual/html_node/Shell-Parameter-Expansion.html)
 
 ## Conditions
 
