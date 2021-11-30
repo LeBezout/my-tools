@@ -109,6 +109,7 @@
 * :wrench: [Word Cloud Generator](https://www.jasondavies.com/wordcloud/)
 * :wrench: [Book Cover Generator](https://diybookcovers.com/3Dmockups/#)
 * :wrench: [Générateur Ascii Art depuis du texte](https://www.patorjk.com/software/taag/#p=display&f=Graffiti&t=demo)
+* :wrench: [Générateur de Logo](https://brandmark.io/logo-crunch/)
 
 ## Cron
 
