@@ -111,6 +111,12 @@
 * :wrench: [Générateur Ascii Art depuis du texte](https://www.patorjk.com/software/taag/#p=display&f=Graffiti&t=demo)
 * :wrench: [Générateur de Logo](https://brandmark.io/logo-crunch/)
 
+## Editeurs en ligne
+
+* [SQL OnLine IDE - SQLite](https://sqliteonline.com/)
+* [Python - Online Python IDE](https://www.online-python.com/)
+* [CodePen](https://codepen.io/)
+
 ## Cron
 
 * :information_source: [Cron Expression Descriptor](https://cronexpressiondescriptor.azurewebsites.net/)
