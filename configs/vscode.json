@@ -78,6 +78,10 @@
     "[typescript]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
+    "[powershell]":  {
+        "files.encoding": "windows1252",
+        "files.eol": "\r\n"
+    },
     
     "cSpell.language": "en,fr,fr-FR",
     "cSpell.userWords": [
