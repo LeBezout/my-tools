@@ -27,6 +27,12 @@ charset = latin1
 end_of_line = crlf
 charset = latin1
 
+# Les fichiers PowerShell sont au format Windows
+[*.ps1]
+end_of_line = crlf
+indent_style = tab
+charset = latin1
+
 # Cas des fichiers yaml
 [*.{yml,yaml}]
 indent_size = 2
