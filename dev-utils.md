@@ -32,8 +32,8 @@
 
 ## Shell
 
-* :white_check_mark: [Shell Check](https://www.shellcheck.net/) | Accès au détail d'une règle :  `https://github.com/koalaman/shellcheck/wiki/SCxxxx`
-* :information_source: [Cheat](https://cheat.sh/)
+* :white_check_mark: [Shellcheck](https://www.shellcheck.net/) | Accès au détail d'une règle :  `https://github.com/koalaman/shellcheck/wiki/SCxxxx`
+* :information_source: [Cheat.sh](https://cheat.sh/)
 * :information_source: [ExplainShell](https://explainshell.com/)
 * :computer: Query Command-Line Tools :
   * [jq](https://github.com/stedolan/jq) for JSon
