@@ -21,6 +21,7 @@
 * :information_source: [Table Unicode](https://fr.wikipedia.org/wiki/Table_des_caract%C3%A8res_Unicode_(0000-0FFF)#Contr%C3%B4les_C0_et_latin_de_base)
 * :information_source: [HTML Entities](https://www.w3schools.com/html/html_entities.asp)
 * :information_source: [W3C Character Entity Reference Chart](https://dev.w3.org/html5/html-author/charref)
+* :pencil2: [Icônes.js](https://icones.js.org/)
 * :clipboard: [Emojipedia](https://emojipedia.org/) | [EmojiCopy](https://www.emojicopy.com/)
 * :clipboard: [Emoji cheat sheet for GitHub](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
 * :clipboard: [Unicode Full Emoji List](http://unicode.org/emoji/charts/full-emoji-list.html) :warning: _long à charger_
@@ -67,8 +68,8 @@
 
 ## Aides mémoires
 
-* [Git Explorer](https://gitexplorer.com/) | Git Command Explorer
-* [Learn Git Branching](https://learngitbranching.js.org/) | Didactitiel en ligne
+* :information_source: [Git Explorer](https://gitexplorer.com/) | Git Command Explorer
+* :information_source: [Learn Git Branching](https://learngitbranching.js.org/) | Didactitiel en ligne
 
 ## Documentation
 
@@ -115,9 +116,9 @@
 
 ## Editeurs en ligne
 
-* [SQL OnLine IDE - SQLite](https://sqliteonline.com/)
-* [Python - Online Python IDE](https://www.online-python.com/)
-* [CodePen](https://codepen.io/)
+* :pencil: [SQL OnLine IDE - SQLite](https://sqliteonline.com/)
+* :pencil: [Python - Online Python IDE](https://www.online-python.com/)
+* :pencil: [CodePen](https://codepen.io/)
 
 ## Cron
 
