@@ -15,22 +15,6 @@
 * :white_check_mark: [Security Headers](https://securityheaders.com/?q=github.com&followRedirects=on)
 * :white_check_mark: [CryptCheck](https://tls.imirhil.fr/https/github.com)
 
-## Caractères et icônes
-
-* :information_source: [Table ASCII](https://fr.wikipedia.org/wiki/American_Standard_Code_for_Information_Interchange#Description)
-* :information_source: [Table Unicode](https://fr.wikipedia.org/wiki/Table_des_caract%C3%A8res_Unicode_(0000-0FFF)#Contr%C3%B4les_C0_et_latin_de_base)
-* :information_source: [HTML Entities](https://www.w3schools.com/html/html_entities.asp)
-* :information_source: [W3C Character Entity Reference Chart](https://dev.w3.org/html5/html-author/charref)
-* :pencil2: [Icônes.js](https://icones.js.org/)
-* :clipboard: [Emojipedia](https://emojipedia.org/) | [EmojiCopy](https://www.emojicopy.com/)
-* :clipboard: [Emoji cheat sheet for GitHub](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
-* :clipboard: [Unicode Full Emoji List](http://unicode.org/emoji/charts/full-emoji-list.html) :warning: _long à charger_
-* :clipboard: [Bootstrap Glyphicon Components](https://www.w3schools.com/bootstrap/bootstrap_ref_comp_glyphs.asp)
-* :clipboard: [gitmoji](https://gitmoji.dev/) | An emoji guide for your commit messages
-* :clipboard: [Heroicons](https://heroicons.com/) | Beautiful hand-crafted SVG icons
-* :clipboard: [unicode.scarfboy](http://unicode.scarfboy.com/) | Unicode codepoint lookup/search tool
-* :clipboard: [Shields.io](https://shields.io/) | Exemple génération de badges SVG : ![badge](https://img.shields.io/badge/Test%20BLE-OK-brightgreen) :  `https://img.shields.io/badge/<text left>-<text right>-<bg-color>`
-
 ## Shell
 
 * :white_check_mark: [Shellcheck](https://www.shellcheck.net/) | Accès au détail d'une règle :  `https://github.com/koalaman/shellcheck/wiki/SCxxxx`
@@ -49,9 +33,34 @@
 
 ## Web et interfaces
 
+### RGB
+
 * :pencil2: [Codes couleurs - color-hex.com/](https://www.color-hex.com/color/fe7d37)
 * :pencil2: [Codes couleurs - rgb.to/](https://rgb.to/)
+
+### Validation
+
 * :white_check_mark: [Validation CSS](https://jigsaw.w3.org/css-validator/)
+
+### Caractères et icônes
+
+* :information_source: [Table ASCII](https://fr.wikipedia.org/wiki/American_Standard_Code_for_Information_Interchange#Description)
+* :information_source: [Table Unicode](https://fr.wikipedia.org/wiki/Table_des_caract%C3%A8res_Unicode_(0000-0FFF)#Contr%C3%B4les_C0_et_latin_de_base)
+* :information_source: [HTML Entities](https://www.w3schools.com/html/html_entities.asp)
+* :information_source: [W3C Character Entity Reference Chart](https://dev.w3.org/html5/html-author/charref)
+* :pencil2: [Icônes.js](https://icones.js.org/)
+* :clipboard: [Emojipedia](https://emojipedia.org/) | [EmojiCopy](https://www.emojicopy.com/)
+* :clipboard: [Emoji cheat sheet for GitHub](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
+* :clipboard: [Unicode Full Emoji List](http://unicode.org/emoji/charts/full-emoji-list.html) :warning: _long à charger_
+* :clipboard: [Bootstrap Glyphicon Components](https://www.w3schools.com/bootstrap/bootstrap_ref_comp_glyphs.asp)
+* :clipboard: [gitmoji](https://gitmoji.dev/) | An emoji guide for your commit messages
+* :clipboard: [Heroicons](https://heroicons.com/) | Beautiful hand-crafted SVG icons
+* :clipboard: [unicode.scarfboy](http://unicode.scarfboy.com/) | Unicode codepoint lookup/search tool
+* :clipboard: [Shields.io](https://shields.io/) | Exemple génération de badges SVG : ![badge](https://img.shields.io/badge/Test%20BLE-OK-brightgreen) :  `https://img.shields.io/badge/<text left>-<text right>-<bg-color>`
+
+### Maquettes d'interfaces graphiques (Wireframes)
+
+* :pencil: [MockingBird](https://gomockingbird.com/)
 
 ## Convertisseurs
 
@@ -90,7 +99,7 @@
 * :pencil: [Gleek.io](https://app.gleek.io/diagrams/) | _Create informal, UML object, class, or entity-relationship diagrams – using just the keyboard_
 * :pencil: [PlantUML - Diagrammes UML et autres](https://plantuml.com/fr/)
 * :pencil: [Diagram as Code](https://diagrams.mingrammer.com/)
-* :pencil: [Git Graph.js](https://gitgraphjs.com/#0) | _A JavaScript library to draw pretty git graphs_
+* :pencil: [Git Graph.js](https://www.nicoespeon.com/gitgraph.js/#0) | _A JavaScript library to draw pretty git graphs_
 
 ## Maven
 
