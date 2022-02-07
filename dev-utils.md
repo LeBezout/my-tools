@@ -97,6 +97,7 @@
 * :pencil: [Mermaid Live Editor](https://mermaidjs.github.io/mermaid-live-editor/) | _Online FlowChart & Diagrams Editor_
 * :pencil: [Diagrams.net](https://app.diagrams.net/) (ex-Draw.io) | _diagrams.net is open source, online, desktop and container deployable diagramming software_
 * :pencil: [Excalidraw](https://excalidraw.com/)
+* :pencil: [tldraw](https://tldraw.com/) | _a tiny little drawing app_
 * :pencil: [Gleek.io](https://app.gleek.io/diagrams/) | _Create informal, UML object, class, or entity-relationship diagrams – using just the keyboard_
 * :pencil: [PlantUML - Diagrammes UML et autres](https://plantuml.com/fr/)
 * :pencil: [Diagram as Code](https://diagrams.mingrammer.com/)
