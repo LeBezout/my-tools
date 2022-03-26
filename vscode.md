@@ -22,6 +22,7 @@
   * [AsciiDoctor](https://marketplace.visualstudio.com/items?itemName=asciidoctor.asciidoctor-vscode)
   * [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
   * [Markdown Emoji](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-emoji)
+  * [Markdown Preview Mermaid Support](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid)
   * [Markdown Preview Github Styling](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles)
   * [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf)
   * [VSCode PDF: Display pdf file in VSCode](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf)
