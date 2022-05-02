@@ -89,6 +89,7 @@
 * :information_source: [AsciiDoc Special Characters and Symbols](https://docs.antora.org/antora/1.0/asciidoc/special-characters-and-symbols/)
 * :bulb: [Markdown DocToc](https://github.com/thlorenz/doctoc)
 * :wrench: [S>G : ScreenToGif](https://www.screentogif.com/?l=fr_fr) :warning: _not inline_
+* :pencil2: [nGitHubTOC](https://imthenachoman.github.io/nGitHubTOC/) _create table of content markdown for GitHub markdown files_
 
 ## Diagrammes
 
