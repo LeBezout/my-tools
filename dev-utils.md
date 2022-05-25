@@ -2,7 +2,7 @@
 
 ## HTTP
 
-* :information_source: [Status Code](https://fr.wikipedia.org/wiki/Liste_des_codes_HTTP#Codes_d'%C3%A9tat)
+* :information_source: Status Codes : [httpstatuses.io](https://httpstatuses.io/) | [Wikipedia](https://fr.wikipedia.org/wiki/Liste_des_codes_HTTP#Codes_d'%C3%A9tat)
 * :information_source: [HTML URL Encoding Reference](https://www.w3schools.com/tags/ref_urlencode.asp)
 * :wrench: [URL Decoder](https://www.urldecoder.org/)
 * :wrench: [URL Encoder](https://www.urlencoder.org/)
