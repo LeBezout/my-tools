@@ -103,6 +103,7 @@
 * :pencil: [PlantUML - Diagrammes UML et autres](https://plantuml.com/fr/)
 * :pencil: [Diagram as Code](https://diagrams.mingrammer.com/)
 * :pencil: [Git Graph.js](https://www.nicoespeon.com/gitgraph.js/#0) | _A JavaScript library to draw pretty git graphs_
+* :pencil: [Graphviz](https://www.graphviz.org/) | _Graph Visualization_
 
 ## Maven
 
