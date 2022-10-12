@@ -35,6 +35,7 @@
 ## Samples
 
 * :wrench: [{JSON} Placeholder](https://jsonplaceholder.typicode.com/) | Free fake API for testing and prototyping
+* :wrench: [Lorem Ipsum](https://fr.lipsum.com/] | Lipsum generator
 
 ## Web et interfaces
 
