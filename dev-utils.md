@@ -32,6 +32,10 @@
 * :white_check_mark: [regex101](https://www.regex101.com/) | Free multilingual regular expression debugger with real time explanation
 * :white_check_mark: [Debuggex](https://www.debuggex.com/) | Online visual regex tester
 
+## Samples
+
+* :wrench: [{JSON} Placeholder](https://jsonplaceholder.typicode.com/) | Free fake API for testing and prototyping
+
 ## Web et interfaces
 
 ### RGB
