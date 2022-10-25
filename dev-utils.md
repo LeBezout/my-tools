@@ -15,6 +15,10 @@
 * :white_check_mark: [Security Headers](https://securityheaders.com/?q=github.com&followRedirects=on)
 * :white_check_mark: [CryptCheck](https://tls.imirhil.fr/https/github.com)
 
+## Security
+
+* :white_check_mark: [Snyk Website Vulnerability Scanner](https://snyk.io/website-scanner/)
+
 ## Shell
 
 * :white_check_mark: [Shellcheck](https://www.shellcheck.net/) | Accès au détail d'une règle :  `https://github.com/koalaman/shellcheck/wiki/SCxxxx`
