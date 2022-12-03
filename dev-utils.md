@@ -135,6 +135,7 @@
 * :wrench: [Book Cover Generator](https://diybookcovers.com/3Dmockups/#)
 * :wrench: [Générateur Ascii Art depuis du texte](https://www.patorjk.com/software/taag/#p=display&f=Graffiti&t=demo)
 * :wrench: [Générateur de Logo](https://brandmark.io/logo-crunch/)
+* :wrench: [Le générateur de faux noms rigolos](https://www.lorraine-ipsum.fr/)
 
 ## Editeurs en ligne
 
