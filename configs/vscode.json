@@ -3,12 +3,14 @@
     "window.newWindowDimensions": "maximized",
     "window.zoomLevel": 0,
     
+    "workbench.editor.highlightModifiedTabs": true,
     "workbench.iconTheme": "material-icon-theme",
     "workbench.startupEditor": "none",   
     "workbench.tree.renderIndentGuides": "always",
     "workbench.tree.indent": 10,
     
     "editor.fontSize": 12,
+    "editor.fontLigatures": true,
     "editor.tabSize": 2,
     "editor.wordWrap": "off",
     "editor.minimap.enabled": true,
@@ -84,6 +86,12 @@
         "files.encoding": "windows1252",
         "files.eol": "\r\n"
     },
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "[markdown]": {
+        "editor.defaultFormatter": "DavidAnson.vscode-markdownlint"
+    },
     
     "cSpell.language": "en,fr,fr-FR",
     "cSpell.userWords": [
@@ -115,6 +123,4 @@
         "éditique",
         "éditiques"
     ],
-
-    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
 }
