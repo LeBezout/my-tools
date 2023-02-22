@@ -29,6 +29,7 @@
   * [xq](https://github.com/jeffbr13/xq) for XML
   * [yq](https://github.com/mikefarah/yq) for Yaml
   * [hq](https://github.com/rbwinslow/hq) for HTML
+  * [fq](https://github.com/wader/fq) for binary
 
 ## RegExp
 
