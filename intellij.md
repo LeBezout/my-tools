@@ -36,6 +36,11 @@
 
 :link: [Share settings through a settings repository](https://www.jetbrains.com/help/idea/sharing-your-ide-settings.html#settings-repository)
 
+## Settings Sync
+
+* Configurer le proxy
+* puis Settings Sync > "Enable Settings Sync..."
+
 ## Config outils
 
 ### Configurer le SDK	
@@ -61,7 +66,7 @@
 * ~~[Grazie](https://plugins.jetbrains.com/plugin/12175-grazie/)~~ inclu désormais
 * [GitToolBox](https://plugins.jetbrains.com/plugin/7499-gittoolbox)
 * [Rainbow Brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets)
-* [JPA Buddy](https://plugins.jetbrains.com/plugin/15075-jpa-buddy)
+* ~~[JPA Buddy](https://plugins.jetbrains.com/plugin/15075-jpa-buddy)~~ payant
 
 ## Junit 5
 
@@ -85,7 +90,7 @@ Ajouter `junit-platform-launcher` correspondant à la version de JUnit 5 utilis�
 
 :bulb: ou vérifier que la connexion réseau (proxy, ..) est OK pour que l'IDE puisse télécharger le nécessaire (jar, ...).
 
-## Correspondance Eclipse
+## Correspondances Eclipse
 
 | Fonction | Raccourci Eclipse | Raccourci IntelliJ |
 | -------- | ----------------- | ------------------ |
@@ -107,3 +112,7 @@ Décocher _argLine_ dans File > Settings > Build, Execution, Deployment > Build 
 Fixed 2021.1
 
 Sinon _Build Tools > Maven > Importing > JDK for Importer_ => sélectionner le même que le projet
+
+### java.lang.ClassNotFoundException: kotlinx.coroutines.debug.AgentPremain en DEBUG
+
+Désactiver l'agent "Kotlin Coroutine" (via settings > Build, Exec, Develop.. > Debugger
