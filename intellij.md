@@ -25,9 +25,9 @@
   * _Properties Files_ : sélectionner _ISO-8859-1_
 * Editor > Inspections
   * Cocher Java > _Serialization issues_ → Serializable
-* Editor > Spelling
-  * ~~Ajouter le [dictionnaire français](http://www.winedt.org/dict/fr.zip)~~
-  * Meilleure alternative : utiliser le plugin [Grazie](https://plugins.jetbrains.com/plugin/12175-grazie/)
+* Editor > Natural Languages
+  * [Grazie](https://plugins.jetbrains.com/plugin/12175-grazie/) est désormais inclu nativement
+  * Ajouter le français
 * Build, Execution, Deployment > Compiler > Annotation Processors
   * Cocher _Enable annotation processing_ (pour Lombok par exemple)
 * Roue crantée de la vue _project_
