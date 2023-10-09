@@ -10,6 +10,18 @@
 #!/bin/bash
 ```
 
+## Variables
+
+```shell
+if [ -z $variable ]; then
+  echo "Variable vide"
+fi
+
+if [ -n $variable ]; then
+  echo "Variable non vide"
+fi
+```
+
 ## if
 
 :warning: Les espaces à l'intérieur des crochets sont **très importants**.
